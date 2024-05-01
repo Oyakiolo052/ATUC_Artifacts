@@ -1,0 +1,56 @@
+T5:
+Average Perplexity Civil (with trim): 5.734730001042218
+Average Perplexity Uncivil (with trim): 9.779970800764854
+
+bart:
+Average Perplexity Civil (with trim): 6.475535371962328
+Average Perplexity Uncivil (with trim): 9.794793858609827
+
+nllb:
+Average Perplexity Civil (with trim): 5.641927421093195
+Average Perplexity Uncivil (with trim): 9.800872976470947
+
+marian:
+Average Perplexity Civil (with trim): 6.645807770418381
+Average Perplexity Uncivil (with trim): 9.779970800764854
+
+GPT35:
+Average Perplexity Civil (with trim): 6.581797100457015
+Average Perplexity Uncivil (with trim): 9.865991426993883
+
+GPT4:
+Average Perplexity Civil (with trim): 4.672720456383237
+Average Perplexity Uncivil (with trim): 9.771872129613792
+
+CondaBert:
+Average Perplexity Civil (with trim): 5.1721230039281805
+Average Perplexity Uncivil (with trim): 9.779970800764854
+
+Count:
+Average Perplexity Civil (with trim): 9.182627639931882
+Average Perplexity Uncivil (with trim): 9.779970800764854
+
+Diffudetox:
+Average Perplexity Civil (with trim): 7.589748927058935
+Average Perplexity Uncivil (with trim): 9.75416153330673
+
+Marco:
+Average Perplexity Civil (with trim): 10.428134940468906
+Average Perplexity Uncivil (with trim): 9.756677639170121
+
+Madan:
+Average Perplexity Civil (with trim): 8.24566885524041
+Average Perplexity Uncivil (with trim): 9.820922491736068
+
+Paradox:
+Average Perplexity Civil (with trim): 8.93394277163734
+Average Perplexity Uncivil (with trim): 9.779970800764854
+
+Paragedi:
+Average Perplexity Civil (with trim): 8.710059208197986
+Average Perplexity Uncivil (with trim): 9.743849371557992
+
+chatbot:
+Average Perplexity Civil (with trim): 8.308750261348653
+Average Perplexity Uncivil (with trim): 9.806210893178628
+
