@@ -1,0 +1,70 @@
+BART:
+Sentiment Improvement: 460
+T-statistic: -11.133969930952214
+P-value: 2.231726736894682e-28
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 65.90257879656161%
+
+T5:
+Sentiment Improvement: 454
+T-statistic: -10.980528370752028
+P-value: 1.1731961278227667e-27
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 65.0429799426934%
+
+ChatBot:
+Sentiment Improvement: 137
+T-statistic: -3.001342006515728
+P-value: 0.0027045295792123116
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 19.62750716332378%
+
+Madan:
+Sentiment Improvement: 80
+T-statistic: -1.7949544830282218
+P-value: 0.07273645896622473
+Hypothesis: Fail to reject null hypothesis: There is no significant impact on sentiment.
+Percentage Improvement/Decrement: 11.461318051575931%
+
+Marco:
+Sentiment Improvement: 2
+T-statistic: -0.03771737784772789
+P-value: 0.9699149039085282
+Hypothesis: Fail to reject null hypothesis: There is no significant impact on sentiment.
+Percentage Improvement/Decrement: -0.28653295128939826%
+
+Paradetox:
+Sentiment Improvement: -21
+T-statistic: 0.5075302942063137
+P-value: 0.6118107952867227
+Hypothesis: Fail to reject null hypothesis: There is no significant impact on sentiment.
+Percentage Improvement/Decrement: 3.0085959885386817%
+
+ParaGedi:
+Sentiment Improvement: -11
+T-statistic: 0.2628709313358885
+P-value: 0.7926636103988077
+Hypothesis: Fail to reject null hypothesis: There is no significant impact on sentiment.
+Percentage Improvement/Decrement: 1.5759312320916905%
+
+CondaBert:
+Sentiment Improvement: -13
+T-statistic: 0.30914784563143055
+P-value: 0.7572251783074868
+Hypothesis: Fail to reject null hypothesis: There is no significant impact on sentiment.
+Percentage Improvement/Decrement: 1.8624641833810889%
+
+Count:
+Sentiment Improvement: 1
+T-statistic: -0.0070264368095476985
+P-value: 0.9943941114242758
+Hypothesis: Fail to reject null hypothesis: There is no significant impact on sentiment.
+Percentage Improvement/Decrement: -0.14326647564469913%
+
+DiffuDetox:
+Sentiment Improvement: -26
+T-statistic: 0.6318974917834377
+P-value: 0.5274900195917798
+Hypothesis: Fail to reject null hypothesis: There is no significant impact on sentiment.
+Percentage Improvement/Decrement: 3.7249283667621778%
+
