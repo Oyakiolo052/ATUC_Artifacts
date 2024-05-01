@@ -1,0 +1,65 @@
+mean_squared_difference_T5:  0.007670534463137722
+mean_squared_difference_Bart:  0.006657951135943156
+mean_squared_difference_nllb:  0.0073685451001378605
+mean_squared_difference_marian:  0.004210201597334056
+mean_squared_difference_GPT35:  0.029881360381002243
+mean_squared_difference_GPT4:  0.01091240167754506
+mean_squared_difference_politebot:  0.4984229449181765
+mean_squared_difference_madan:  0.05929287579195405
+mean_squared_difference_marco:  7.093794303275693e-05
+mean_squared_difference_paradetox:  0.5236230933542438
+mean_squared_difference_paragedi:  0.07458354640001799
+mean_squared_difference_condabert:  3.397597253802328e-05
+mean_squared_difference_count:  0.5133719005588075
+mean_squared_difference_diffudetox:  0.5447109516378167
+
+
+
+Best MModel = 0.004210201597334056 (Marian)
+
+
+
+
+change Rate: 
+T5: Mean': -11.926011987454933
+Overall Change Direction: increase
+
+Bart: Mean': -3.055295476834613
+Overall Change Direction: increase
+
+nllb: Mean': -5.997691321351148
+Overall Change Direction: increase
+
+marian: Mean': -15.761686892460942
+Overall Change Direction: increase
+
+GPT35: Mean': -29.981624688332587
+Overall Change Direction: increase
+
+ChatBot: Mean': 47.18834762735568
+Overall Change Direction: decrease
+
+Madan_politeness: Mean': 1.9374426241440172
+Overall Change Direction: decrease
+
+Marco:Mean': 1.3743245851180854
+Overall Change Direction: decrease
+
+Paradetox: Mean': 53.78793227003559
+Overall Change Direction: decrease
+
+Paragedi:Mean': 33.72156060368952
+Overall Change Direction: decrease
+
+Condabert: Mean': -6.338311968101508
+Overall Change Direction: increase
+
+Count: Mean': 53.70891602713191
+Overall Change Direction: decrease
+
+Diffudetox: Mean': 55.644954388085495
+Overall Change Direction: decrease
+
+Mean': -56.45097058680182
+Overall Change Direction: increase
+
