@@ -1,0 +1,99 @@
+T5:
+Sentiment Improvement: 262
+T-statistic: -6.303722806190858
+P-value: 3.221161034389103e-10
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 21.4227309893704%
+
+BART:
+Sentiment Improvement: 235
+T-statistic: -5.625414912952838
+P-value: 1.977252241413825e-08
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 19.215044971381847%
+
+NLLB:
+Sentiment Improvement: 203
+T-statistic: -4.909614216780601
+P-value: 9.489879617963582e-07
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 16.59852820932134%
+
+MARIANMT:
+Sentiment Improvement: 143
+T-statistic: -3.4279782216135026
+P-value: 0.0006142388685463208
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 11.692559280457889%
+
+GPT3.5:
+Sentiment Improvement: 296
+T-statistic: -6.8976885955936895
+P-value: 6.1184642532695e-12
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 24.202780049059687%
+
+ChatBOT:
+Sentiment Improvement: 375
+T-statistic: -8.801927725957094
+P-value: 1.9667344042724843e-18
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 30.662305805396567%
+
+Madan:
+Sentiment Improvement: 155
+T-statistic: -3.66440425076241
+P-value: 0.00025113149441557584
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 12.673753066230582%
+
+Marco:
+Sentiment Improvement: 170
+T-statistic: -4.066187578752969
+P-value: 4.870896055041234e-05
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 13.900245298446443%
+
+Paradetox:
+Sentiment Improvement: 316
+T-statistic: -7.6202110710685265
+P-value: 3.1436773933218466e-14
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 25.838103025347507%
+
+Paragedi:
+Sentiment Improvement: 315
+T-statistic: -7.675418795309708
+P-value: 2.0592161950067922e-14
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 25.756336876533116%
+
+CondaBert:
+Sentiment Improvement: 74
+T-statistic: -1.7899838580263077
+P-value: 0.07353219497857155
+Hypothesis: Fail to reject null hypothesis: There is no significant impact on sentiment.
+Percentage Improvement/Decrement: 6.050695012264922%
+
+Count:
+Sentiment Improvement: 334
+T-statistic: -8.067213377615841
+P-value: 9.423476328161213e-16
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 27.309893704006544%
+
+Diffudetox:
+Sentiment Improvement: 310
+T-statistic: -7.561405597936607
+P-value: 4.917834838780052e-14
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 25.347506132461163%
+
+GPT4.0:
+Sentiment Improvement: 336
+T-statistic: -7.829639041487444
+P-value: 6.2202314671054384e-15
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: 27.47342600163532%
+
+
