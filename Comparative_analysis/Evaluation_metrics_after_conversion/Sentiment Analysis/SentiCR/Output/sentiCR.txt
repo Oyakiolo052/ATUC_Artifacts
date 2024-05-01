@@ -1,0 +1,57 @@
+ChatBot:
+Sentiment Improvement: 232
+T-statistic: -10.48979628364554
+P-value: 2.0512938650882934e-25
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: -56.447688564476884%
+
+Madan:
+Sentiment Improvement: 131
+T-statistic: -5.498461444245085
+P-value: 4.070489135478981e-08
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: -31.873479318734795%
+
+Marco:
+Sentiment Improvement: 55
+T-statistic: -2.2021281057842503
+P-value: 0.027713170423586876
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: -13.381995133819952%
+
+ParaDetox:
+Sentiment Improvement: 197
+T-statistic: -8.642967624454261
+P-value: 7.803796335856485e-18
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: -47.93187347931874%
+
+ParaGedi:
+Sentiment Improvement: 67
+T-statistic: -2.7014603299107094
+P-value: 0.00693270597926456
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: -16.30170316301703%
+
+CondaBert:
+Sentiment Improvement: 170
+T-statistic: -7.317066447010522
+P-value: 3.0474354962682593e-13
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: -41.3625304136253%
+
+Count:
+Sentiment Improvement: 200
+T-statistic: -8.794949940946019
+P-value: 2.0908024312459846e-18
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: -48.661800486618006%
+
+Diffudetox:
+Sentiment Improvement: 185
+T-statistic: -8.036171943188364
+P-value: 1.2095483090812664e-15
+Hypothesis: Reject null hypothesis: There is a significant impact on sentiment.
+Percentage Improvement/Decrement: -45.01216545012166%
+
+
