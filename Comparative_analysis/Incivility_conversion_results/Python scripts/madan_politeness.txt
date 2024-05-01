@@ -1,0 +1,5 @@
+I just follow their replication package and run the inference on my dataset. 
+Replication Package: https://github.com/tag-and-generate/tagger-generator
+
+
+Please follow step 1 to step 5. 
