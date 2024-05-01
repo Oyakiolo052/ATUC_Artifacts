@@ -1,0 +1,1999 @@
+,civil,prediction
+0,eapByteBuffer[pos=0 lim=0 cap=0]]] output,0
+1,"It looks like this will result in a fork, which is a real shame, but",1
+2,The inconsistency in my own ecosystem is dreadful though.,1
+3,"If (field!= null) || checkLineNo(field, objCalledOn",0
+4,No one from this list ever responds,0
+5,.libsignal.metadata.ProtocolDuplicateMessageException: Received message,0
+6,ier way than the mess that it is now installing Graylog2. Not having standard,0
+7, *still true* even when shipping each package with its own electron libs. *,0
+8,"OK, I merged with Ariel's pull request! Please also consider re-keeping an",0
+9,> To suggest to someone that they should remove their human emotion > when communicating to another,0
+10,Let's celebrate yet another unsuccessful release,1
+11,st stated is reflected in the trade statistics (that an offer is taken and becomes a,0
+12,The users. This was no different to first TueCrypt users ([OTR](https,0
+13,static Collection<Inet6Address> getPossibleInetAddressesFor(,0
+14,"Open a new ticket with your code and the error, then.",1
+15,I don't think you should be here.,1
+16,"Never mind, red herring!",1
+17,to fix because there is a fundamental design decision at the heart of the issue based on,0
+18,I have tried all HLS streams in demo app with speed up to 2x (,0
+19,Thanks for your reply. After some digging I found that the real issue is with the,0
+20,Forcing clients to re-parse text returned by utility that parses text is not,0
+21,"Wow your FCM messages for Signal are insanely delayed, averaging ~5-6 hours",1
+22,e name of the service. Which was youtube in this case. So in order to,0
+23,Has anyone figured out how to get around this?,1
+24,"Your standard video game key assignment screen, yeah? Seems like exactly how everyone else solves",0
+25,Thanks! Could i ask you to sign our CLA if you haven't set? See,0
+26,>  >  > no-one from Signal noticed the problem listed here and in,0
+27,@user Manual resizing of pictures before sending them is the most uncomfortable thing I can,1
+28,me in a platform independent way ( I am using it for loading avatar images inside a,0
+29,That stories are one of the main reasons i migrated from YouTube don't make me go,0
+30,"FWIW, I tried it on Windows and both work, but it definitely makes",1
+31,Every day of my life is a vacation.,1
+32,"Nevermind, it was a reverse proxy issue.",1
+33,Sorry about that. I couldnt figure out why it was compiling on my machine &,0
+34,"+1, it's annoying",1
+35,numbers cannot be mapped to a double datatype using match_mapping_,0
+36,It seems like deliberate DOS and opportunisitc eavesdropping by anyone who can spoof,1
+37,I've noted that when you get the message that you have attempted to register too many,0
+38,Rearly. I've encountered some other problems related to audio playing. The only au,0
+39,without issues,0
+40,Err:508,0
+41, [<none> -> pulsar://localhost:6650] Failed to establish connection,0
+42,Where the temporary directory will now be `elasticsearch.XXXXXXX.<eight random,0
+43,I am able to reproduce this now: 1. user sends a message to your group,0
+44,I still see this issue in Android 5.1.1,0
+45,Some usage impediment. Are you sure you want them to not have a chance to,0
+46,Thanks for the detailed bug report!!! You can send me the log file (manfred,0
+47,"@user I have not tested the issue with Linux, but you can try a few",0
+48,I suppose YouTube changed something in its page layout.,0
+49,It isn't supposed to.,1
+50,"FWIW, I've been testing my app on Genymotion, Galaxy Nexus",1
+51,I end up with multiple slots on my shiny server and have to add the same people,0
+52,What a shame :(,1
+53,"oh man, jarhell checks in your app. I will use this as an example",0
+54,"I think we're at the mercy of gstreamer here, it's not something",1
+55,holy moly this issues opened on 21 Dec 2015 and no import from csv to,0
+56,There is no real need for Test scope in 99% of the cases so in upcoming,0
+57,I just tested the same thing on `demo.thingsboard.io` and,0
+58,-1 to enable by default,0
+59,This is not the best solution whenever in my cases it won't work 100% in,0
+60,Sorry to paraphrase what you said; as no exception is thrown in this operation on,0
+61,I didn't bother testing other clipboard managers. But if I can test something specifically to,0
+62,Looks like you're ready to open a PR!,1
+63,stalled. - `craptube-name.jar`: The extension,1
+64,"I don't need it. After 24h, when some of the documents with the",0
+65,where?  This is the best I could find...  * no official helpdocs,0
+66,githubusercontent.com/5811393/41500883-719a2,0
+67,This is in a log-like file for ECS. Hope this rambling make,0
+68,I'm afraid I didn't understand your comment.,0
+69,Closing. The PR contains changes from multiple branches...I hate Git.,1
+70,"t behavior from ""hey everyone that person you have stored in your addressbook for some",0
+71,I don't think we're ever going to get more info.,1
+72,"I like to leave a paper trail. Sometimes, when I'm alone in the dark",0
+73,It would be nice to have a Bresenham implementation which yields the bottom results,0
+74,relevant reading material: http http looks like there is a fix but pretty ugly,1
+75,The less maven the better,1
+76,I disagree on anything looking outdated in v 5.6*. That is just something a,0
+77,"> NACK lack of code formatting. Hi, fixed and squashed.",1
+78,Yuuuup,1
+79,"@user_id:9001, you right.. the first command that works is",0
+80,@user the stars are just decoration. I thought it would look better. Tho,0
+81,e row being animated. That wasn't very smooth and also had some strange issues like,0
+82,imply a burst of 500 MB transfer in 10s for instance if you set 1,0
+83,The next days it will be released. I want to get the windows code signing in,0
+84,"ion. Alternatively, idea.no.launcher=true can be set in the",0
+85,Has there been any progress on this? I'm now in the midst of my third,0
+86,"> I tried the same thing when VPN is off, still same thing. Tested",0
+87,"Those self-closing tags are the result of the smart-copy HTML"" function",0
+88,hahahaha  awesome,1
+89,"Ugh, in sanity testing I've discovered that `/etc/suse-",1
+90,I used BTC for the trade fees. Where do I see my onion address? I,0
+91,@user yes we can close this one in favor of http sorry @user I messed,0
+92,"@user This still regularly happens for me, so I would argue this needs to be",0
+93,asble signatures. How is that a bad user experience?  > Reply to this,0
+94,Yes. I have an uncommitted change on my laptop that removes analyzer.Type,0
+95,5 22:24  plugin-descriptor.properties    14573,0
+96,I'm so sorry I didn't know such an option exists. We distribute the org,0
+97,so bad,1
+98,It would be so good to have a usable documentation AND REPL somewhere. Writing painless,0
+99,You are being so dismissive and useless,1
+100,> What about using.openapi-generator-ignore to have complete control on,0
+101,That's a bug in your code,1
+102,"Come on Travis, you can do it!",0
+103,Seems to have worked now several times. Hopefully I didn't mess up rocket's,0
+104,Creating a connection just to be able to import a CSV as data into a database is,0
+105,``` Crap,1
+106,ooh nevermind then I didn't see your latest reply!!!,1
+107,I hate the idea of adding another UI setting. But having the option to turn off,1
+108,I think the build is failing because the material dialogs author @user has deleted the,0
+109,Mail classes are likely to be loaded at server level and thus will have only one default,0
+110,"Thank god, i thought i was going crazy",1
+111,"@user It's bad news for us, unfortunately, but we'll try to somehow",0
+112,ch.java:166) [elasticsearch-7.16.1.,0
+113,"@user I didnt know you were trying to use ""documents"" to protect you",1
+114,"re always subject of misuse, and even if the illegal copies are just online for a",0
+115,The uncontrolled notification is a mis-feature. I don't care so much how it,0
+116,"""+1"" doesn't bring anything to the discussion, it's spam. When",0
+117,One solution I thought is to create a new class and copy the content of `Web,0
+118,"BTW, I have not read your responses to my comments yet.",1
+119,"@user note, the mockup above doesn't include the new item ""See other",0
+120,"Dude what is wrong with u LOL. I just told you man, background player",0
+121,arch.bootstrap.Elasticsearch.main(ElasticSearch.java:,0
+122,"Ouch, messy indeed... Why not make a new platform called armv6h",0
+123,Aren't you in a corporate network or under the firewall?,1
+124,"Correct. It should be 9 and only 9 and never anything else. I think """,0
+125,Only audio plays. This behaviour is identical to what BackgroundPlayer do. What are you,0
+126,nd Ansible scripts come in.   The points you've raised have been raised,0
+127,atePixels() } void draw() { } ```,0
+128,This is absolutely bad! Only i can say you is try to upgrade the AmLog,0
+129,"oh, I thought this had merged",0
+130,"ni isn't alone on this, it's just the one I picked on ;-)",0
+131,Why did you dig deeper here?,0
+132,Ouch. A lot of ouch,1
+133,/log/bigbluebutton/bbb-rap-worker.log - this,0
+134,"ntial, or at least it hasn't been essential so far.   More",0
+135,WTF,1
+136,tly or view it on GitHub > http >.,0
+137,agmenting? > > — > You are receiving this because you are subscribed to,0
+138,"e program back to sane performance. (Surprisingly, `DecimalFormat` isn",0
+139,"Sorry, my English is very bad, I tried to explain this issue.  I",0
+140,otal time: 01:38 min Total time: 07:23 min TOTAL time:,0
+141,"Closing due to branch shenanigans, replaced by #71035",0
+142,"Yeah so I'm going to join the club here. Sometimes, like 10% of",0
+143,"Yeah. Not exactly a showstopper, I know!",1
+144,*samza... phone autocorrect is being silly,1
+145,Using goog.provide and ES6 import in the same file is not allowed,1
+146,"I'll pull the patch and take look later this afternoon, but this looks even better",0
+147,Did you solve this?,1
+148,"@user I implemented it with the approach you suggested, this is what I came away",0
+149,"Hello psychoboust, yes, you understood right, with this fork we can trigger",0
+150,ate between multiple on-and-off clients is just too difficult with email.,0
+151,Haven't heard back in over a year so closing,1
+152,The code is so unbelievable it is hard to figure out what is happening.  It,1
+153,Glad to hear you got it working.,1
+154,"So I worked myself into this a bit further, and what i found out is,",0
+155,"ut.  users_v3 in this case disappeared, mappings/settings on",0
+156,I committed my changes first. Then I updated and got a conflict. I merged it,0
+157,"> Update: I think I get why its a different directory, the ability to delete",0
+158,"The fact that you can use a tool a certain way is not, in itself,",0
+159,"If possible, a line break in between Table and Query data might make scanning the differences",0
+160,"Shoot, I missed that one. Sorry about the dupe",0
+161,> I agree there should be only one way to get this maybe we can just use,0
+162,s.add(jar.toRealPath().toUri().toURL());,0
+163,"@user -  1. To be honest, it _was_ intended to be",0
+164,"The left side of the existing number, creates some confusion in TextSecure that does not",0
+165,"i sense there's something cool coming our way :) On Jun 19, 2013 10:",0
+166,ps://github.com/notifications/unsubscribe-auth/AES,0
+167,close?,0
+168,> P.S. may be issue should be created for problem [#8030,0
+169,:| I definitely targeted my own repo for this.,0
+170,"The people who disagree with us are all motivated by malice, or that our political opponents",1
+171,Haven't heard back in over a year,1
+172,"eyStore serverKeyStore = KeyStore.getInstance(""JKS"");  ",0
+173,ack. let's discuss this on our next community meeting,0
+174,"More like, launching processes is not realistic for a daemon process to do. Under any",0
+175,"No idea, you could try digging in the code and see about helping us out with",1
+176,**[William Gorder](https://jira.spring.io/secure/,0
+177,WTF,1
+178,"clang-tidy review says ""All clean, LGTM! :+1",0
+179,"an having nothing :)... ore YTs new ""we know better what you like""",0
+180,BDTM6EWRANCNFSM44GWLEZA).,0
+181,Looks like there are still some error-wrapping shenanigans in the same ITs.,1
+182,> +1. Enabling copilot through RStudio would be great for the community,0
+183,Is this working for you now?,0
+184,oh  no best feature gone,1
+185,**[Ken Egervari](https://jira.spring.io/secure,0
+186,0.21.13 This same problem all the time. With the mouse and video,0
+187,Is there any setting where we can tell Dbeaver to display the data exactly as,0
+188,"It's confusing because it is a very unusual software control, that's just the truth",0
+189,@user Could you tell me whether [this APK](https://github.com,0
+190,"Goodbye, Signal. Been here since TextSecure. Too bad the team decided to",1
+191,Did you figure out a way to do this?,1
+192,I'm surprised how hard this one is but I don't know any other tricks either,0
+193,"query    ""system"":{  ��  ""maxBytes"":257",0
+194,"Well, I suppose if we expect well-mannered users who do not hurl",0
+195,"It was working before, why it just stop working today, BTW, if it",0
+196,"Wow, that was fast. Thanks Moxie! Am.06.2015,",0
+197,Wonderful idea - I love codeium and (1) it is free for non,0
+198,someone help me?,1
+199,"r, so it applies to a lot of defaults. This method also manipulates user",0
+200,Those are bugs in your code. You're using undocumented methods in a way they're,0
+201,damn. I branched away from the wrong branch for this PR... will,1
+202,QoL FTW!,1
+203,Blame Google,0
+204,@user run elasticsearch-ci/bwc (wtf?),0
+205,@user oh it 😆,0
+206,"goog.require doesn't require inserting script tags, take a look at the node",1
+207,I also have had this crash for quite a while. I use the Review Storage function,0
+208,ibed in this issue,0
+209,@user @user Why did we allow this sub-subfolder hierarchy?,0
+210,@user We shade for the runtime client which is generally the artifact that is most prone,0
+211,Jinx,1
+212,I had no idea you could do that. What do you mean by conflicts?,1
+213,I don't think we're going to fix this anytime soon.,0
+214,Theoretically this should reproduce it: ``` FROM base/archlinux  WORK,0
+215,"51, #264, #393, #510, #925, #981",0
+216,@user The problem is that the circle is not wide enough for 3 digits / letters,0
+217,: remove unused english strings refactor(app): remove unused portuguese strings ref,0
+218,I think it's not a problem related to capacity/writable etc.,0
+219,"AFAIK, Android requires the assets folder to be in that location, so everyone",0
+220,It's almost certainly a race condition as to whether you see it or not.,0
+221,om depending on one external service (their own DB mostly) to multiple. Having a,0
+222,**[Abhijit Sarkar](https://jira.spring.io,0
+223,"OK, launch images do the trick and let our apps run in ""native"" resolution",0
+224,It's your project and I'm in no positio,0
+225,**[Eric Pederson](https://jira.spring.io/secure/,0
+226,"You can leave the thread and come back, but that gets super tricky/ugly",1
+227,"don't you dare to comment on silence, lol",1
+228,What type of media are you playing?,1
+229,"d be an option, since the player is highlighted by a border as well?",0
+230,1. Non-developers are unlikely to activate debugging in order to file a bug,0
+231,My team also has issues with the `allOf` operator. For us it's,0
+232,Quoting [rfc7845](https://datatracker.ietf,0
+233,omehow newbies seem to consistently onboard themselves successfully). This is perhaps because the project,0
+234,"Oh. Sure, gimme a bit.",0
+235,"@user you can merge, dude",1
+236,What about something that ran periodically (user configured) against the indexes?,0
+237,4ce78836579e61652400ba23#diff-78,0
+238,It can't be lenient anymore: we have to require this `licenses`,0
+239,If you are using the Java API you are considered to be a full blown part of,0
+240,"etc.  But, is this really necessary? Being able to read old data should",0
+241,"""Use Signal, use Tor."" ""That seems like great advice! So I'm",0
+242,Cannot download org.jkiss.dbeaver.ext.generic_2,0
+243,"Hi @user since you did not share the logs where the 403 is happening, and",0
+244,"""still better than Maven"" is our motto On Jul 26, 2013 12:",0
+245,"NACK. Interesting concept, but I think it adds complexity and might actually make it",1
+246,"That wont really stop them going up-the-chain, to hoster or ISP",0
+247,> Adding a new separate typescript-react-hooks template is a bad,0
+248,"_From freaka...@gmail.com on July 31, 2012 01:34",1
+249,**[Adrian Moos](https://jira.spring.io/secure,0
+250,You are right… :/  Am 10.04.2013 um 07:29,0
+251,@user We were also using `output directory name` in the same way (probably,0
+252,"This breaks anything that checks for ""jar hell"", such as elasticsearch when used as",1
+253,up. :-D,0
+254,"uper.getTags(request, response, handler, exception).spliterator(), false",0
+255,"This issue popped up, when my wife went to Oman for holidays. Signal suddenly just",0
+256,"Closing... This is an unhelpful rant, not a bug report. ",1
+257,You can use your services just operating on them rather than service references residing in the session,0
+258,t be careful. Some of these APIs (like parallelStreams) try to create,0
+259,"@user  I must apologize for sounding rude in this matter, and I really do",0
+260,Oh my bad. I just googled and ended up on that page.,1
+261,To be more specific: shader compilation fails because of use of deprecated keywords and function names,0
+262,"Doode, Why you closed my issues!? Definitely I've already checked [https",1
+263,"From a quick look through the code and the docs, I can't see what's",0
+264,dude this doesn't even build. please test your changes before you submit them here,1
+265,Silly Nate only fixed half of it.,1
+266,A quick comment — have done a few of these. The bank A I was sending,0
+267,"I am having the same issue.  On Windows 10, there is a feature called",0
+268,"Most graphics subsystems max out around 30k pixels in either direction, so any time",0
+269,``` Delete this. Why does hitting enter submit the thing? ```  Reported,0
+270,It exposed an mbean as a way of configuring log level. It was an,0
+271,Great. Document it in our Quip for FSA.,0
+272,"Shame there is no easy fix, but fantastic troubleshooting",1
+273,I think it's a good idea to standardify `search_quote_analyzer,0
+274,Way too technical for us.,1
+275,"married twice to Kimberly until their second divorce in 2006, revealed he's used the dating",1
+276,lol i am in for this feature,1
+277,tes a browser-crashing error on Win 7 or Win 10  **_Light,0
+278,Crap,1
+279,Please delete if possible. Accidental keypress.,0
+280,"I just rebooted as a test, it did persist. How I was affected:",0
+281,My work-around involves using the binder directly and a bindhandler too. ,0
+282,"it yourself to things for which you can envision a technical solution for. Simply, if",0
+283,Strong upvote here. For things like FlatBuffers (or I think even prot,0
+284,Never mind about the Color. I misread a line of your code.,0
+285,"Thanks for these precisions! Damned, I didn’t notice that JD",1
+286,"Ok, got it now - my MacBook Pro didn't have a virus scanner running on",0
+287,@user i think there are some proposals floating around about functions whose signature changes in arbitrary,0
+288,@user You sound mad. Why would I set a bounty for this if I can,1
+289,"Oh, wow.",1
+290,I'm gonna be honest: I do not think highlighting even makes sense for this query,0
+291,"The couple's son, with the split finalized the following year in May 2010.N",0
+292,Since there's little we can do to pressure carriers into not screw up their SMS tim,1
+293,"I'm reconsidering my initial skepticism a bit, after meeting to discuss the proposal.",0
+294,I am being a noob please can you show me what yours looks like. where,0
+295,"Ah, thanks!   What ehcache version are you using by the way?",0
+296,"Unfortunately, Damien has jealously guarded the secret of CLA wrangling (i.",0
+297,Then why are you saying that?,0
+298,hell yeah!,1
+299,"lure: too few texture units supported (0, should be 8). qt",0
+300,Haven't heard back in well over a year so closing,0
+301,The   ��   ─   View  Â  ,0
+302,"Grepping for ""Info.class"" I can see that the Info activity is only",0
+303,I'll review it. This should be a huge win.  Today we don't,0
+304,Ugh,1
+305,🍿 Who cares about being taken serious? MISSION ACCOMPLISHED,0
+306,Glad to hear you solved it,0
+307,"al time: 00:31 Total time: 01:24 Total time, 00:",0
+308,This is literally diabolic. I lost half a day and a piece of life trying,1
+309,👍  @user do you mind filling out the CLA here?,0
+310,LGTM. It'd be nice to have a test for this because it looks fin,0
+311,nd `ANNOTATION_ARRAY_INIT` to default tokens list.,0
+312,oh god how do changelogs work now,1
+313,sLoader.loadClass(ClassLoaders.java:188) 14:16,0
+314,"Yeah - this mostly doesn't make sense, you're right - the root cause is",0
+315,Ugh. I upgraded the container to the version above and it worked.,1
+316,It's best to not force push over your commits once your PR has been opened.,0
+317,"Andy, we should have a master build with Java7 - Let me know if you",0
+318,The difference can be spotted with your naked eye.,1
+319,@user Did you get a chance to read my answer and try?,0
+320,"s,  0.0%sy,    0k used, 74",0
+321,Just noticed this too. It's completely horrible. Waiting for an update that undoes,1
+322,The scam mentioned above is global and has been in use for over 10 years. I,0
+323,"While I did mis-configure things, it was a very frustrating issue to run",0
+324,I don't see reason in your code modifications,1
+325,droid 4.3 and above)![after](https://cloud.github,0
+326,"> ## http >  > You can view, comment on, or merge this pull",0
+327,"h, name)) { -  ��    ‘   return",0
+328,> I do think it is strange having graylog rename fields for backwards compatibility which is,0
+329,@user ok slacker ) Good luck with it!  I will look into it,1
+330,"/xvda2 /opt/intel ext4 rw,relatime",0
+331,"Hahah from my comment on the related PR ""Famous last words but it doesn",0
+332,What did I say that warranted a rude answer like that?,1
+333,Not from my side at least,0
+334, requests from ExoPlayer. > > — > You are receiving this because you authored,0
+335,> I didn't mean to discourage you from improving this area. More about the approach,0
+336,HOLLY I forgot to increse the version number.  God thing its not,1
+337,@user I think this is closable - even if this merge proves to be bad,0
+338,Doh! Will have a look tomorrow morning if you not beat me,0
+339,.. I could understand if supporting encrypted-but-not-signed mail was a significant,0
+340,"e third is just a merge commit) <img width=""1055"" alt=""",0
+341,That sounds particularly empowering though as the user can't see it themselves and one of the,0
+342,Making a new file and copy/paste did not seem to work for me. Interesting,0
+343,@user I'm a bit concerned with increasing the response size of a the bulk API,0
+344,pooooooortttt! 👍,1
+345,The errors are always ` java.lang.RuntimeException: Failed to start cluster.,0
+346,You are asking me to fix for-profit companies bad architecture? When they have investors,0
+347,please don't close this,0
+348,"st leaving groups if you have a new number - while this may be good advice,",0
+349,Does this cause problems for coordinator?,0
+350,"_From b...@processing.org on June 07, 2010 01:16:",0
+351,eTask.run(ScheduledThreadPoolExecutor.java:307),0
+352,I kinda doubt the libGDX devs will want to break compatibility for every single existing,0
+353,> BI applications will suffer greatly as businessbusers must have exact and not approximate results,0
+354,A masochist?,1
+355,> This issue has been automatically marked as stale because it has not had recent activity.,0
+356,Afters.evaluate(AbstractHazelcastClassRunner.java:139) 10,0
+357,O. Thanks for asking though.'Eminem was first married to Kimberly from 1999,0
+358,Indeed it is. That's why we recommend structuring your application so that it's,0
+359,"Yeah, I don't really care how much memory it uses, but my whole system",0
+360,@user You mean that it looks like: ![this screenshot](https://,0
+361,", and I guess that's just one more reason (as if I needed it)",0
+362,Dang! I'm so glad I checked here! I thought there was something wrong,1
+363,Thanks stale bot. But it's still not fixed. I won't let this get,0
+364,whew. When I added specs I found that nested Hash values were not getting converted,1
+365,"> Oh, seems we got the full kindergarten crew now. Be aware that any Bis",0
+366,"Overriding original jar is bad, try to ```groovy testCompile",0
+367,"The tl;dr of #1952 is that no one follows a standard,",0
+368,s. I say this hoping that it will have a positive impact on you but even,0
+369,"Ah, by merging in Ariels pull request, this pull request can no longer be",0
+370,"},""hits"":{""total"":1,""max_score"":0.3125,""",0
+371,went the wrong way lol,0
+372,> Bisq has a no scam policy and this project's website looks to me like,0
+373,Still exploring this a bit. Here is a pretty good gist of some of the ways,0
+374,Possibly jar in your setup. If you are using elasticsearch 2.0 as,0
+375,The Signal Foundation doesn't care about their user opinion any more than Alphabet and Meta do,0
+376,"t. >  > Bummer, that won't work in this case as then",0
+377,Looks like a good bug for someone.,0
+378,whoops,1
+379,this is the kind of small features which reviels how manipulative YouTube is -aka,1
+380,Who dares summon me? ☠️,1
+381,@user @user So I've backported these changes to `7.x`.,0
+382,"Actually, many cultures expect more. Avoiding Latin (and other languages that aren't",0
+383,"Sure, and yeah I think I have finally gotten to the point where I can be",0
+384,wtf is this answer. PushBullet can **do what it's supposed to,1
+385,"Lets enumerate the problems here. I sit here with my brother, who works",0
+386,"authenticated token gets authenticated using the `CustomX509AuthenticationProvider`. However,",0
+387,Output maps are awful: http We really want to deprecate and remove them in,1
+388,this pr is pretty ugly and is a quick and dirty fix to remove the check for,1
+389,_sigh_ You've posted about 1400 lines of code. Even including the overhead,0
+390,You should find the line where it went wrong. (can you imagine?) Why can,0
+391,"FWIW, the last time I looked, this isn't a built-in",1
+392,"hat has new signal, I could export the database in an old format that my new",0
+393,"That should do the job. As you can probably tell, I've created a pull",0
+394,"This is an issue tracker, not a help center. Next time you should really ask",0
+395,"Well, the last interaction that happened here from others (except you) was -6",0
+396,"@user please read my last post again. @user that is perfectly reasonable, and",0
+397,"OVH is lax, but in recent years they have started taking down sites, so",0
+398,Who cares what you did.,1
+399,My preference is to link to their default browser. In App help systems generally don't,0
+400,"Hi Norman and folks, I wonder if this YYTVicky is a real user",0
+401, on GitHub > <https://github.com/apache/incubator-p,0
+402,Ah it's again the issue of the Java 1.8... Had to add this,0
+403,e way how their expressions are placed in AST and add additional stack for the storing expression,0
+404,CNFSM4I2IQ> >. >,0
+405,Is this a performance thing?,1
+406,l.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method,0
+407,Ugh,1
+408,"Love the proposals here, is this still on anyone's radar?",1
+409,"8692>, #8824 > <https://github.com/signal",0
+410,> sorry if hacky sounded harsh. It didn't - no worries :-).,0
+411,"another good point is than if added, bisq could be mentioned in their site.",0
+412,"I saw a couple sub-minute ones and on main it took 2'41"",",0
+413,Uh... no? I just tried Arial and Inter in Hiero (with an,0
+414,"N Nas, simply wrote back: 'Yes.'Making sweet music together? Nicki",0
+415,@user you make it sound super complicated but we are talking about rejecting a 9 ASCII,0
+416,Oh. Oops,1
+417,Thanks!  I was able to open the e-mail as expected using K-,0
+418,Javac] 1. ERROR in /Users/khoadt2/Download,0
+419,This makes TextSecure really not recommendable for anyone who is not very tech-s,0
+420,"To create a versatile solution, usable to any person other than yourself - I'd suggest",0
+421,That was fast. My SMS is disabled as of today. I have been questioned about,0
+422,"The more you interact with those layers, the more obvious, ugly, and problematic it",1
+423,Anyone want to spend some time with the android device monitor and see where all the memory,0
+424,> XiangRongLin added good first issue and removed bad first issue labels  How,0
+425,"Isn't there some android supplied thing that does a ""shimmer"" - something like",0
+426,Are you sure? I don't think we did anything to fix it.,1
+427,Not ready.,0
+428,**poke,0
+429,Its crazy how this bug is not getting resolved..,1
+430,Update:  I found a fix. Insert the following to ```./scripts/,0
+431,@user It is crucial thing and I personally think the issue should be reopened. Forum,0
+432,"I haven't used the YouTube app or website in a couple years, and I think",0
+433,@user As the developper of a Netty based HTTP client (Async,0
+434,"How many _real_ databases have you seen ""exposed to the internet""?!",0
+435,I guess not.,0
+436,"@user I'm asking using label of a platform directly in select, I think you",0
+437,i think we can fix this. Javascript plus binary floats is a bit messed up.,0
+438,@user thanks for the rebase. It looks like Circle CI just ran out in,0
+439,You're on top of things!,1
+440,"Would it make sense to move the smoothing options under a ""smoothing""",0
+441,Umm.. why did you assign this to me? This test doesn't redirect anything,0
+442,IMO the fastests PR ever! Congratulations!,1
+443,"BWAHAHAHAHA  That's hilarious. It still works fine, just tiny AF",1
+444,"a conversation with someone who disagrees with them.  Everything is binary, and anything that",0
+445, - I think those are on alpha 55 or 56 still) - and try togg,0
+446,@user Thanks for the answer but I think the devil is in the details so let,1
+447,waiting for you,1
+448,I can't wait for this to become a reality!,1
+449,看到你是中国人，就不,0
+450,You are absolutely right - what a shame! Is it anywhere on the roadmap to get,1
+451,"We have  server A with ES and dev server B, C and D with app",0
+452,This PR won't work any more,0
+453,"Ah, shame. It can't make it into 6.5.2? It",1
+454,apted from {@link DirectFieldAccessor} to support convert Vavr,0
+455,Dang. It's a bit surprising to me since C++ typically allows one-,1
+456,That's a different kind of person! The fix should be here: http,0
+457,@user I'm looking to get a handle of the configurer and determine which of,0
+458,"duced all kinds of problems for bean deadlocking, but is a very simple approach",0
+459,You are a big person and cao ni ma   dongweipeng,0
+460,"Hi Nico, I met a similar error (see http when I'm trying the connector",0
+461,I just finished the simple things. Now I need the information / answers to my questions,0
+462,"I tried to add missing libs: ```gradle  compile ""com.",0
+463,I don't think Transformers is a compelling enough name to go thru the process of ren,0
+464,@user I think no. It does have an [`empty-lines`](,0
+465,network of has contact to Tor devs to get more background about the Tor issues. I,0
+466,Should we not be solving this at the API level? To keep things in-line,0
+467,"I get maybe the same error, but am not sure. I’m on",0
+468,e them. A `LinkedList` in Java is bad! A two element,0
+469,"Thanks Mobi, Its annoying because its my phone so i play test a lot on",0
+470,"For god's sake, different sketches using a common library? That's the exact opposite",1
+471,@user how dare you delay the release of a vital project that all of us use,1
+472,Third time's the charm! Ready to review.,0
+473,I can't decide whether I think this is an elegant solution or an awful hack :),1
+474,"I don't want to talk, i have no problem in retrying. <details",0
+475,"Sucks that you fixed this (with the ""abort init if ACRA""",1
+476,roblem as using the non fvh highlighter was wrapping terms in a,0
+477,"@user what a person! thanks for sharing, yea it is challenging for clients to",0
+478,We should also consider the package name. As @user mentioned the PR plurals in,0
+479,"This iner class must be static.I miss the ""static....""",0
+480,Twitter  @user    public void uhOh() throws Exception {  ,0
+481,Flagging to see if anyone else on the team has ideas.,1
+482,How will I execute the University class without main method? This doesn't make sense.,0
+483,I had no idea that label existed. The future is now!,0
+484,It is still existing. I hate you,1
+485,same happend to me.  Problem: i did not want to do anything else,0
+486,d really bad. It's like trying to do serious work on a laptop with no,0
+487,rg.apache.ignite.startup.cmdline.CommandLineStartup,0
+488,"You quickly want to jump to conclusions and call me shameless, don't you? I",1
+489,"This is not so much a problem if you override onSubmit, but it looks k",0
+490,use regular expression to replace it with `'a.b'`. It's ugly,1
+491,"In the past, I worked with SQL databases that had case-insensitive resolution.",0
+492,Logger.type=io.netty.util.internal.logging.,0
+493,"@user wow, I didn't know that we have conflicts with Arquillian.",0
+494,"Oh, that's a bummer. Thanks for checking on that.",0
+495,I believe that enabling HTTP/2 by default will lead to Tomcat logging an error,0
+496,I think it will be useful to set this checkbox for commits like this:!,0
+497,"How does this, or a combination thereof, work?",0
+498,rything come back as before - but sometimes not.   Edit: i found,0
+499,That's the least I can do for filing crappy bug reports against you :) Also reported,1
+500,"FYI, it works by adding """" to dimensionExclusions.",0
+501,It is condescending because it can be misinterpreted as advice directed from a professional to,1
+502,"Ok, thanks for finding the other things, too, this should solve my other problems",0
+503,Darn... I was hoping for a silver bullet. The test code is still there,1
+504,"Oh, seriously? I implemented this feature some years ago. I thought you might dislike",1
+505,"Ah okay, I am still fairly new to the whole process of fork requests and such",0
+506,I use the workaround method to fix the restful endpoint `updatePartitionedTopic,0
+507,"roovy-all (which shouldn't exist IMO, and definitely shouldn't be",0
+508,"bed as 'competitive'.'I remember, every time I wrote a verse to Roman",0
+509,People don't care I guess.,0
+510,"he only truly universal format is E164, so we canonicalize everything into E164",0
+511,.. :-) ). All of them have the same problem. We all connect to different,0
+512,I also habe this problem. We do have a shitton of bandwith available,1
+513,"Aloha @user Thanks for interact! I understant that in your cases, makes",0
+514,"er, instead a common core piece would collect these metrics and periodically emit the snapshot of",0
+515,"Signal is going around and telling every boss, every abusive partner, every controlling parent",1
+516,Looks like I only pushed it on my fork but not upstream (see http above).,0
+517,"o, nor do I want to tap a little X on my phone with my thumb",1
+518,e end of it.  ### InputStream/OutputStream  Files can not be,0
+519,"As @user has said here, the problem still exists with the early access version",0
+520,"BUMP! My funders are balking at keeping this open, compared to the",1
+521,Someone can confirm that getting native-image working is not a good use of our time,0
+522,The error is pretty clear. Either run the thing as bigbluebutton or comment the,0
+523,I already saw that but it's not helping.,0
+524,s different and was explained on http the multi producer case is not correctly awaiting the whole,0
+525,"I don't even know what to say about ""plausible deniability"" as a",1
+526,I can't accept this condition,0
+527, has a solution for this,0
+528,ou can see in web version by clicking on the title :) PS.: You can edit,0
+529,I looked at some of the unexpected type warnings. Here is one of the more understandable,0
+530,lickListener` set inside the class. If that makes sense?,0
+531,close?,0
+532,"If you're not using an alpha, I'm afraid you'll need to wait for",0
+533,"OK, I still like the `@EntityScan` idea (just because JPA",0
+534,r `dryRun` and always build an explain. if folks are not interested in,0
+535,Err:508,0
+536,a lot clearer that those are Closure defines only.,0
+537,I'm not really sure what heuristic you are suggesting?,0
+538,Two null handling modes?,0
+539,"that Check is old, see details http  but this issue is closed and done.",0
+540,"unately, I can't get my xmr out of poloniex,",0
+541,Any chance of this ever happening?,0
+542,> 30 minute video call earlier on. Phone became piping hot. CPU monitor reported 75,0
+543,This is not helpful. Asking to widen the support beyond what works already is irrelevant,0
+544,led the ASP.NET code on mono / linux to see why it's so slow,0
+545,back from vacation. checking again.,0
+546,Ah OK :+1: But I'd break backward compatibility and completely remove single notifications,0
+547,"TextSecure for Android also uses the Apple Emoji set, since all iOS devices are",0
+548,"# Hello Community, I've experienced that bug too, after accidentally removing the Google Documents",0
+549,Hi @user! I think we can delete promise manager as keeping it's codebase,0
+550,Ahhh haven't seen it.,0
+551,I didn't even look -,1
+552,(or make sure the sample you are reporting is only upgrading dependencies).,0
+553,is it just waiting?,0
+554,"Oh, that makes sense(but not on the ui). But how to combine",0
+555,Is this only on Linux 64-bit? Looks like the build process may not have,0
+556,Do you have some strange Android ROM on your device?,1
+557,_From [badlogicgames](https://code.google.com/u,1
+558,We totally need this!,1
+559,"Added one more commit, but did a rebase in between, therefore I am messing",0
+560,Before passing to spring:url. Nasty and makes traditional URL parameters much more attractive,1
+561,Do we have any control over this?,0
+562,Codacy does not read comments :-). There is a reason to not make that,0
+563,What makes you think it's unnecessary?,1
+564,"FYI, there's another related fix #8406 that was already merged.",0
+565,".  Yes it doesn't work if you invent new syntax, what works is what",0
+566,AUSE I CAN ASSURE YOU THAT IN OUR WOLRD WE RESPOND WITH,0
+567,maintainer note: doing i18n sync *prior* to merging this,0
+568,:flushed: wow! That was fast! :smile: Cheers mate,0
+569,I don't blame you. The first commit to my fork included a heap of binaries,0
+570,Still waiting on travis to run the tests to make sure I didn't break the,0
+571,"Looking for a newer version than yours, which is available since 8 days, would be",0
+572,FWIW I was able to build on my Macbook Pro without this fix.,0
+573,You are completely right about JsonReader.,0
+574,There is a new texture atlas generated with libGDX Texture Atlas that doesn't,0
+575,https://cloud.githubusercontent.com/assets/174176/8005463,0
+576,t nodes. That would kill the TOR network for most users and they could make the,0
+577,"> Thank you for the time you've put in, but this code change doesn't",0
+578,"What a step backwards. I don't understand why, in 2015, you'd go",1
+579,"Ubuntu 20.04 system, updated R 4.3.0 today, R",0
+580,**[Tim](https://jira.spring.io/secure/ViewProfile,0
+581,"As framework developer, sometimes Java migration is a little bit awful",1
+582,"I know just as much as it needs another irc client, xmpp client",0
+583,with which I can tell you with 99% certainty is currently used more outside of containers,0
+584,It's impossible to catch the error. SoundPool is supposed to return a specific value,0
+585,Well. even the syntax highlighting in the SQL Editor is bad in dark mode.!,0
+586,@user  - I added the fortune test case with symfony php templates (,0
+587,Yeah @user already seems to have set that up...so can we get notified without,0
+588,I don't see why we should mislabel files because people use crappy/old music,1
+589,tributor that are necessarily infringed by their Contribution(s) alone or,0
+590,> I am just guessing but wouldn't in this case the 1st one in the,0
+591,I forgot about the AnkiDroid data folder. Thank you for the reminder.,0
+592,> I'll bite:  sure... I'm immuned :)  > `Spawn,0
+593,fset = 4  // braceAdjustment = 2 if (foo)  ,0
+594,"Hi kim!  Exactly! The problem happens when i load video from URL,",0
+595,"The word ""ution"" drives me crazy",1
+596,"please submit a coherent issue report and fill out the issue template. as-is,",0
+597,33418]]] 2020-07-14T22:21:29.574,0
+598,fs and would either be more or less than desired --> Probably Not?  3.,0
+599,>Privacy policy? Is that even relevant? The application is banned from the Play Store,0
+600,Merci!,1
+601,FWIW... this code falls between the cracks. No one is truly comfortable reviewing,1
+602,"clang-tidy review says ""All clean, LGTM! :+1",0
+603,Yes... 1.Start Command Prompt. 2.Navigate to the folder that holds,0
+604,The same issue please fix youtube harasses me with insulting personal ads,1
+605,Maybe something special in denmark?,0
+606,"Ah yes, found it, if I say this, the run gets skipped (�",0
+607,"[Edit] Removed image, as I'm not at GIMP. But seeing",0
+608,hought of this design? Unless Signal has a different agenda? If it is indeed,0
+609,@user @user Could you describe this issue a bit more? I've fixed active,0
+610,"Had a shot at fixing this, let's see",0
+611,"Upload a test apk in the OP after you're done making changes, dud",0
+612,A small optimization causes zillion issues..,0
+613,Hmm. I remember why I was asked to open this issue back then. But thinking,0
+614,of the same type. It needs to go solidly one way or the other (lex,0
+615,You should get in touch with the BBB core team and get their approval first.,0
+616,4P05Uz> >. >,0
+617,I think this is already going to be implemented with the new and planned way to distribute,0
+618,"> So, the issue is that you don't want to use Buffer#position(",0
+619,It doesn't like you put the warning codes in the tooltip.,0
+620,:432) ~[elasticsearch-8.0.0-SNAP,0
+621,>  I don't really care about your personal opinion > Yes users are not very,0
+622,@user for a fairly deep graph (say three levels contract/party/address to,0
+623,I would never want to create a particle effect (or emitter) in code.,0
+624,11  pc 0004e123  /system/lib/libdvm.so,0
+625,This looks like a regression to me. I think the previous code did a much better,0
+626,Me neither,0
+627,NACK - the name of this crypto-currency is too similar to Bitcoin and might,1
+628,"Sure! When's a good time? Btw I don't use skype,",0
+629,hmpf. while writing tests I figured there are actually more cases to consider.,1
+630,I assume this is to bypass the Kerberos authenticator? If so I don,0
+631,@user I added yet another special case for setting which pisses me off but I,1
+632,"amples from above should be (or of following): - renamed if possible,  -",0
+633,@user your first response was incredibly condescending. You should be better,1
+634,Idk how its not working for me,1
+635,Still waiting for a new release of Curator.,0
+636,@user There is a difference between HTTP and the implementation of the server socket. The,0
+637,Just another idea about the boolean stuff. I was thinking about this when trying to figure,0
+638,"This is something I would also like to have available when using Closure Compiler,",0
+639,The PR hasn't seen action for almost two months. I'd be happy if you,1
+640,"eads), and then all the corresponding threads are woken up and need to get",0
+641,ugh... there's a childCount() field for inode directory which can change over,1
+642,Oh wow here we go,1
+643,I cant profile changes because i have an older libgdx jar and cant copy Sprite,0
+644,More than a month without a reply.,0
+645,e engine: sun.security.SSLEngineImpl@5b3cf,0
+646,rator is easy to configure if (and only if) you want to configure everything.,0
+647,@user this wouldn't catch 11 for 1. Because there are spaces between the wild,0
+648,"Oh, thanks for that but since this was the second source of error that wasn't",0
+649,blic void InMemoryXmlWebApplicationContextRunsWithNewestXSD,0
+650,@user doh! I did not notice @user fixed it and @user pulled,0
+651,Ok. I'll let it running for some time and see what happens. Nasty,1
+652,"*fix, i don't think so :)",0
+653,Design still busy? I have no clue why design would prefer an ugly gray square.,1
+654,> selenium is spawning a TCP connection every time it does anything  correct.,0
+655,Will explore alternative fix that doesn't touch this codepath.,0
+656,t the cost of skipping the entire document from being indexed...That would at least let,0
+657,"As a workaround I found you can add a ""replace with regex"" extractor before",0
+658,@user Signal keeps sucking up,1
+659,I'm pretty sure I fixed this in the end.,1
+660,Oh my god! It's unfathomable that this bug was reported 5 years ago,1
+661,"Yup, this is a bad one I need to fix.",0
+662,users (who can afford it) to enable it en masse.  > For data,0
+663,"Woho!!!! Finally the tests are passing, I'm going to celebrate with a cold",0
+664,"agreed  on all counts, regardless - I'm just processing notifications mobile so don",0
+665,end it to all my friends. But the addition of 'features' that don't,0
+666,"@user Looking at the diff in this PR, there is something wrong. Things like",0
+667,> Most fiat payment methods available have daily limits on their side that would prevent Bisq,0
+668,Someone please take a look at it,0
+669,or.java:636) 18:06:55.134 29682 29,0
+670,-4329-b8d4-1232ddec6d36.,0
+671,"I'm using SwiftKey on one device, stock Android on the other and can't",0
+672,d then it starts snowing.,0
+673,"quite ugly, but as a workaround, type casting suppresses the warning. ```",1
+674,"plications. In any case, you cannot avoid having to think about it and you",0
+675,```  Reported by `Pdxjeff1` on 2014-05-,0
+676,Better and hopefully leave a reference for any newbie out there stumbling onto this by having,0
+677,I messed up a merge.. it should call flush(..) not discard(..,0
+678,"seems i needed to delete the branch, will open a new pull request..",0
+679,Hi @user hopefully someone with more in depth knowledge of TypeScript in particular can help,0
+680,"@user Darn, looks like you need to rebase this work onto master (",1
+681,Looks like you were able to fix this on your own?,1
+682,any Polish users will start using this app and here in Poland we need unicode stripping,0
+683,erWrapper (1798893235) [visible=[java.nio.,0
+684,0)  ├at android.content.pm.PackageParser.parsePackage(,0
+685,r.java:35) 10:39:02   at com.h,0
+686,@user  > There is design principle that demands to treat all classes around as enemies,0
+687,Looks like you already have the code,1
+688,Thanks a lot! I contacted the guy and blocked the offer. I found another offer,0
+689,**[marc schipperheyn](https://jira.spring.io,0
+690,"what I am doing, my class inherits from ESIntegTestCase, which by",0
+691,"I'm positive on this if it never ever ever happens again, and there's command",0
+692,"As @user says, please use the template when opening an issue. When you want",0
+693,This is so embarrasing. I gave F-Droid a second chance.,1
+694,from the value of the benchmarks > as a whole since I doubt many people will apply,0
+695,"here's your fix, I tested it and it closes the connection properly now (no",0
+696,lar - not so fancy - use case: We use the ES 5.x client,0
+697,THEY ARE REALLY ANNOYING,1
+698,You'd get something more concise from me if you weren't wasting my time.,1
+699,"_There isn't good error messaging for that now, but we're working on it",0
+700,Can you create a unit test that reproduces the issue? OSGI is pretty complex,0
+701,"@user seems you've already included docs in this PR, so I will update the",0
+702,now. Ed: Updated because the syntax parser was hiding id (surrounded by ,0
+703,I'm back. Aparently nobody has done anything in the last 1.5 month,0
+704,A wild thing,1
+705,I'm fiddling with a solution for this.,0
+706,Would the main repo make that easier? I bet we could really tune this for the,0
+707,"Wow, looks like they broke integration quite well. Its fixed in 2017.1,",0
+708,"Here comes the reproducer (sort of, not necessarily tomcat specific): http Note",0
+709,How can I deal with it?,1
+710,"at is being done, if they are not very careful through the whole process it is",0
+711,"I sense the frustration here, however, **""Banging my head""** is",1
+712,"One line at the settings like the above approach, but feels for me to have more",0
+713,>Actually periodic snapshot of FJP state would be nice to see to identify potential bugs,0
+714,"Anything ""new SQL stuff"" which contains named parameters like `NULL`, `ON`",0
+715,"@user there is some value for some users to have posted it, to get it",0
+716,I didn't mean to discourage you from improving this area. More about the approach you,0
+717,Direct access to the backing array is still useful in many places. As shown in my,0
+718,this is a joke right? you probably have a different date for April Fools or,1
+719,what a woman...,1
+720,"Silly Norton, quarantining things based on not having enough information about them.",1
+721,Epic!,1
+722,Why nobody answers to me? my God...,1
+723,@user In case you are content with [quick'n'dirty Python script](,0
+724,PR has it's way,1
+725,@user @user Anyone of you saw recently any issues related to underscores VS dash as,0
+726,"NACK, small dictionary size means that this is private by obscurity (that's bad",1
+727,running this patch with IntelliJ 14 passes without a jarhell.  ```,0
+728,http > P.S. may be issue should be created for problem.,0
+729,never ever seen again,1
+730,"Oh, this is a really nasty issue. Last chance to fix it: delete folders",0
+731,Can't wait to see this in app!,1
+732,"> Also, I think having to rename variables to circumvent a rule is bad. Isn",0
+733,WHAT ARE WE WE TRUTHFUL FOR? (    WE ARE TRUTH,0
+734,ap.main(Bootstrap.java:272)    at org.,0
+735,"k for instrumentation, hooking into particular container implementations. This is primarily driven by",0
+736,+1 please it's been months I'm going crazy,0
+737,"dContext, ""inMemoryXml"");  I thought it's really time to",0
+738,No one to help me on this?,0
+739,> I recently filed an issue in this repository and in response I got the following email,0
+740,@user Thanks. You can makes this easier for you and us by sharing something more,0
+741,@user This is a known issue which is in progress over at http  The gist,0
+742,hones started with the issue as they started to use some pre existing data instead of,0
+743,People are interested in getting in on the action. In the weeks between a July low,0
+744,This adds a lot of confusion... I just lost several hours of problems investigation because of,0
+745,"I'd suggest upgrading your JVM. Also, giving Elasticsearch 512MB is pretty",0
+746,Well darn - I'm not sure of a real way to write a test for this,1
+747,@user would it make sense to have a release of the json-schema valid,0
+748,"> Sorry? I honestly didn't realise I'd wound ppl up, I'll",0
+749,great selling points I was able to use to bring others to the platform from WhatsApp!,0
+750,"This is a huge, intermittent pain for my tests on a Windows 10 PC.",0
+751,It is a feature. Grid lines are ugly in dark theme.,1
+752,"The test looks scary long runnnig, but it's not too bad:!",1
+753,> Since Android is shipping with the content provider to save at the internal storage/external,0
+754,"In Internet slang, a troll (/ˈtroʊl/, /ˈtr�",1
+755,"Yeah the wording wasn't good, it'll change soon enough (#3276) Following",0
+756,I'm rather positive RedPhone could use some serious work on that end. 4.,0
+757,"Nobody, except you.",1
+758,On test-servers this works pretty well in combination with Filebeat and its Elastic,0
+759,ha ha... The bot got his wires crossed 🤣,0
+760,@user Sorry for the time it took me to create these tests. I tried to,0
+761,> @user Can this be closed given the latest release of urllib3?,0
+762,[Host Controller]  at org.xnio.ChannelListeners.invoke,0
+763,are you on wifi or mobile data?,0
+764,"Or just, idk, stop putting a limit on the SDK version it's compatible",1
+765,Wow that was fast! This is badlogic on steroids!,0
+766,"I apologize for the delay, and you’re absolutely right, you're not",0
+767,"n, as well as undue influence by money coming from political parties and foreign dictatorships",1
+768,re out exactly what behavior we should be expecting across the various API levels / decoder,0
+769,I love you,1
+770,I think we'd prefer to stick with Android norms.,0
+771,"@user First, thanks for trying to get K-9 Mail to work with P",0
+772,``` I strongly recommend to mention Acoustic Echo Cancellation in the wiki or,0
+773,"1) that page is UGLY, please make it looks good, please read",1
+774,@user I don't think using `final String topic = topicName;` is,0
+775,"Oh, even better :) I'd also say there is no need to spend too much",0
+776,@user wrote:  > We actually already have a case where whitespace only mode,0
+777,Hm thats weird.  Maker tx did not end in a deposit tx but was,0
+778,"As stated a several times, its the nature of the beast. And so many different",0
+779,"3-21 09:36:08,139 INFO  [org.infinis",0
+780,I think Elasticsearch has done a pretty good job of staying ahead of the pace here,0
+781,What happens if you run under the influence?,1
+782,> HTTP tunnel is an obvious security hole. Taking into consideration that MySQL user passwords are,0
+783,Crap,1
+784,Can't believe this...laughing:,1
+785,It could be your android system,0
+786,It's entirely possible that it's something to do with your connection. You should definitely,1
+787,This is the only thing holding back the Wazuh dashboards.,0
+788,"I    ""aggs"": {",0
+789,"ansformer implementation=""org.apache.maven.plugins.shade.resource",0
+790,@user  >Checks that particular classes or interfaces are never used as type parameters,0
+791,I barely use the app anymore since this mini player was introduced because of the issue described,0
+792,"ike ""master.cf"" as to which options apply on which open ports. ",0
+793,@user Thanks. Now working like a champ,0
+794,"> Could you please create a PR instead of a Gerrit code review? Seriously,",1
+795,Best cure for a hangover!,1
+796,They're not POM artifacts.,0
+797,"Editing the filter on a valid query to become invalid hides the filter panel, and",0
+798,"Congratulations, now we have renamed (shaded) the Ant files in the output so",0
+799,Please fix this. Super frustrating bug,1
+800,"FYI, these changes will probably require cleaning up code internally, and if the cleanup",1
+801,> Is there a workaround I can use? Or should I simply downgrade back to 1,0
+802,ed in comment #4678 (because simply force syncing the signal account or refreshing,0
+803,What do you prefer? 1) refactor all uses of the static methods by instant,0
+804,Did anyone eventually write that blog post?,1
+805,"O_O  Find us someone, or multiple someones, who can hack on",0
+806,"at java.lang.SecurityManager,checkPermission(SecurityManager.java:",0
+807,"ldschirmfoto 2022-01-25 um 10 27 59"" src=""",0
+808,@user  > We actually do need `additionalQueryString` for dashboard message,0
+809,Nnect(EndpointImpl.java:599) [Host Controller]  ,0
+810,Could you have a look with a profiler to see where the time is being spend,0
+811,Glad your issue was solved,1
+812,r SuppressWarnings and update suppression file. 2) Changes at Input****,0
+813,I thought I rebased when you asked,1
+814,"Fixed the bounds, but we're still definitely in the ""ugly Java UI""",1
+815,"Without looking at code and understanding what you're doing, it's impossible for me to",1
+816,"clang-tidy review says ""All clean, LGTM! :+1",0
+817,Yeah it's definitely not helped by us using two different loaders. I agree that,0
+818,> it has to go in the application code itself which kind of stinks. Can,0
+819,I was in a middle of watching a required video for one of my college classes.,1
+820,ow better where to look...? There has to be another problem related to a case when,0
+821,"Hi, is there support for AMD loading underway? Having goog.require's in",0
+822,"I couldn't determine from the logs, if it is indeed the case, but could",0
+823,"I fully agree, honestly at the start I was kinda wtf'd when I saw",1
+824,Good catch! Rebased. (Rebasing with renaming is bad!)  ,0
+825,It looks like that page is describing goals and problems with 3.x. In my,0
+826,Kind..,0
+827,yes disabling 'Hippie Engine autocompletion' works very well,0
+828,+1 to the above. Also on 5.29.7 and it actually seems,0
+829,and analysis.    If we are concerned about this maybe we should have a,0
+830,e are so quick that the random sampling may miss specific outlier > requests that cause,0
+831,I'll break up this PR because it's too complicated.,1
+832,The developer would only have to code the CategoryAnswerSubmission class in this case...,0
+833,Looking at this there is a problem where we can run out of Ephemeral port,0
+834,Library/Frameworks//CoreFoundation.framework/Core Foundation.tbd and,0
+835,> BTW the reason this is coming up now is because the recent Gradle 3,0
+836,It was from an iOS device. I couldn't tell you what was inside as it,0
+837,edents(DeterministicCorefSieve.java:464) > ,0
+838,"sicslab.lab.model.Collision*/c, index, array)",0
+839,"and yet, but there you go)",0
+840,"Ping again, this is extremely annoying and spammy",1
+841,"Wow, spend 2 hours to find out, that it's not I am, it",0
+842,"Yes, you guessed it. But externs/exports won't really work",0
+843,Have some respect for the people who will get notified of your PR and don't use,1
+844,Is It possibile to add a test case?,0
+845,Looks to me like you don't have an identity key. Have you done any weird,1
+846,I'm also registering my interest as this will be epic,1
+847,hing. Any 7MEL file plays perfect with ExoPlayer/just player so,0
+848,I swear I looked for duplicates. Sorry @user,0
+849,"> I assume this is a typo and you meant AndroidX Work, and I checked",0
+850,"@user oh hell, seems unreverted layout changes got into the test build. Or",1
+851,"@user Maybe you can write a wiki page about the polyfills, what we",0
+852,"I disappeared off the planet for a bit, school got busy, sorry about that!",0
+853,Didn't want people to think it was a 0.9.1 thing :),0
+854,I'm also experiencing this.,0
+855,"need to break. Afterward, we need to reposition any runs after it (",0
+856,"This needs to be fixed. The very common scenario faced as an a user, signal",0
+857,So the fix is to replace that `for()` loop (ugh!) with `,1
+858,"@user Here's what I did Step inside McDonald's Connect to their WiFi WITHOUT """,0
+859,I've also been experiencing this error ever since 0.23.2 released. It,0
+860,"Yes, I understand there are workarounds, but it's an ugly way to",1
+861,"I think there are a few stragglers, just dead build logic, comments,",0
+862,Actors should not make assumptions about what color the SpriteBatch has.,0
+863,"If it's executing the code in that stack trace, I think you'd need an",0
+864,hell yeah!!!,1
+865,I messed up this PR with my latest commits. You'll have to redo.,0
+866,"ue some of the rebranding (offensive language, but that's just the sad",0
+867,"I would love this feature, if I don't find one app that does this,",0
+868,I get some test failure related to discovery here. there is too much magic in here,0
+869,@user That works for me also. Must be time to upgrade to 2.0,0
+870,@user My apologies Scott. I wasn't trying to point fingers (I reviewed this,0
+871,to align videos to the cutcout while using landscape because cutcouts come in,0
+872,vocationBuilderImpl.java:59) ,0
+873,Simple alternative would be allow the disappearing message for more than 1 week? 1month and,0
+874,Can someone please let me know how to fix this issue permanently?,0
+875,l); LwjglGL11 = Class.forName if (openGL,0
+876,"Ugh, I really would prefer to not use apt-get, but mono has",0
+877,Ahh.. wild cards.. intellij... pffff..,0
+878,You should be able to do this now!,0
+879,You should check on your device and make sure they work properly. Thanks for the pull,0
+880,I couldn't agree more!,1
+881,Here is the error from adding that line:  ``` src/lab/model,0
+882,"People who worked on crypto protocols before. @user When you say ""very bad u",0
+883,We're getting close -- but I think there's one bit of ugliness we,0
+884,I'll put reworking this on my queue then. I imagine I'll close this,0
+885,It allows to directly express most things that are needed in shaders and if something is,0
+886,"LI extension - doesn't sound too bad, but Spring Security need to release another J",0
+887,Do you have xposed or any stuff like that running?,1
+888,The current error reporting system is pretty bad. But I'd rather move to something completely,0
+889,"I seconed that. I love OWS and Signal, but I'm really disappointed",0
+890,Totally! This is exactly what I was hoping to see soon.,1
+891,"@user sorry, I was too fast. You're right. Its two contacts (",0
+892,can't believe that still isn't available... html mails on mobile are horrible (,1
+893,"I am thankful to be better informed about the policies (no dependencies, assumptions of plugin",0
+894,There is a unit test to verify exactly this case... weird,0
+895,This change is misguided,0
+896,What's up with the CLA?,1
+897,"he expected `null` result, which in my personal view seems like the only correct",0
+898,sure. I will. I mess up my work..,0
+899,"Occasionally, one wants to insert `[""-Wl,--start-group",0
+900,oops,1
+901,http  ``` Found issue #5489 - make sure we don't import cards,0
+902,"Roughly: I have been distracted by work :/ On Thu, Jul 05",0
+903,ch causes Signal to stumble upon its own problem,0
+904,People really should never make it out the door. There's no JAR hell check,1
+905,**[Andreas Senft](https://jira.spring.io/secure,0
+906,"nter seems to have a visible glyph where it shouldn't, which shows as the",0
+907,// fire user exception event.    } else {   No  ,0
+908,"in"" doesn't really help in this situation. Why tell the user to try again",0
+909,"Just two smaller comments: I like the medical Patch Icon, it shows that PGP",0
+910,act take out all the BitShares derivatives. Are you starting to see my point?,0
+911,I have rebased and squashed the code,0
+912,whew!,1
+913,Pitest isn't for catching bugs in your code. It is for gauging,1
+914,"@user Thx, made some global replace at some point and messed it up",1
+915,We need to change all definitions those interpret `0` as infinite or `Integer.,0
+916,Supposedly you can fix it with geckodriver on windows. They don,0
+917,"Nevermind, the application is working again after restarting the device.",1
+918,Done with one.,0
+919,Reproduced today on 1.9.9/MacOS. This is a,0
+920,Oh wow. VLC doesn't even let you go below 1%.,1
+921,erChangedEvent> tasks) throws Exception { > - -    - ,0
+922,that you don't like or they seems redundant to you. From that people could discuss,0
+923,work,0
+924,Are you using wifi calling or something?,1
+925,"s reset, or something?",0
+926,@user @user  Do you recommend that we remove the phone nr? Is,0
+927,eate after. - Branches themselves are clean: they change only the files I,0
+928,S app can't handle this properly. Correct me if I'm wrong.,0
+929,"When contemplating schema+data version it's possible there are multiple changes in each version,",0
+930,> My apologies Scott. I wasn't trying to point fingers (I reviewed this change,0
+931,You need consistency right? Will post a fix shortly.,0
+932,This is more of a github issue itself by not allowing an issue template akin to google,0
+933,it examplified here by you is why one loses any interest in doing this kind,0
+934,eed cleaned all up and balance was also confirmed with importing the seeds in electrum (,0
+935,I have one Ice Cream Sandwich device (4.0.4) that is silent,0
+936,Is there any update on when this will be fixed? We are considering moving away from,0
+937,Changing the `Start of next day` setting in AnkiDroid clobbers,0
+938,I'm busy reading up on the Loader code and instrumenting it right now as,0
+939,I don't think we will get to this in the near future.,0
+940,ounts (ount > utflen)   Â  �� ,0
+941,"Ah, I didn't think about this when I made #294...",0
+942,"Yes, referenced wrong issue. Re-opening.",0
+943,Travis isn't very smart,1
+944,"]: ``` [2021-08-05T21:40:38,",0
+945,I've been using different conferencing solutions for years and never had one that showed,0
+946,Is anyone else facing this?,0
+947,JGroupsTransport[] (keycloak-cache-init) JG,0
+948,"e uses less RAM. So when one of these files changes, it's detected,",0
+949,~80% laziness (installing two things is more work than installing one thing,0
+950,"y did the ""every operator has to ensure it is closed"" thing. It was",0
+951,an you update the check?,0
+952,"@user Google has started providing some of their artifacts (support lib, compatibility lib,",0
+953,The push haven't seem to worked -.- just pushed it,0
+954,"Ooo, even better!",0
+955,"Oh no, this is a nasty correctness bug... Here's a simple repro: """,0
+956,I guess what you call 'hack' is what i'd call'solution without,0
+957,@user - I also couldn't think of a good way to generalize the behavior,0
+958,I didn't notice that you're running android 2.3 (debug log is empty,0
+959,You are not doing this right! Nate is always to blame,1
+960,Did you fix it?,1
+961,"No, I'm telling it to WhisperSystems. Just because other people are",0
+962,still messed up,1
+963,>For the record `2.7.x` has been upgraded to Elasticsearch,0
+964,We should build and host a version of the conjure jar for dude and then we,1
+965,People should use the latest Gradle Integration nightly from http  I'll update the wiki,0
+966,"k is build, gradle, or android studio. I spent like 6 hrs yesterday",0
+967,ngframework.boot.logging.LoggingApplicationListener.initializeSystem(,0
+968,"It looks ugly for Serbian, too. I translated it as `POŠAL",1
+969,You're ordering apps as if you're ordering burgers. You got something really wrong.,1
+970,"target is web, and Java if the target is a standalone application. 3. when",0
+971,It's really the first time I've heard complaints about too much/superfluous,1
+972,Seems like a bug,0
+973,any other way around this?,0
+974,@user  we typically recommend to use the first one as in Presto codebase,0
+975,I've already read this article but didn't think I have that few documents in my,0
+976,[Brian Topping](https://jira.spring.io/secure/View,0
+977,Part of the spec. We originally punted this because Shadow DOM was chrome only and,0
+978,Ill give it a whirl and see how ugly it is.,1
+979,I'm closing this as this is not really a good approach to bulk downloading. It,0
+980,OH dude! I think my bitmap fallback logic is off. `W/,0
+981,"@user not sure what the plans are for merging this, but could you wait until",0
+982,It must have existed since day one as i never changed the way i handle Swing keyboard,0
+983,nintents.openpgp.util.OpenPgpApi$Open,0
+984,Glad you got it working,0
+985,@user Thoughts on this? Parameterized runner really doesn't make sense so if,0
+986,"OK, chrome is bad, safari is ok. But if it is better that",0
+987,a whoops. I added the code and will run tests now!,0
+988,Yes! The timing couldn't possibly be better for me. Thank you so much!,0
+989,"One last thing, even if bad signal whatsapp always connects even crappy video but usually",1
+990,@user it's using ```int currentHour = ZonedDateTime.of,0
+991, Also: http  What and end user thinks of 'external storage' is better named,0
+992,doh!,0
+993,"BTW, any idea what may have caused this kind of issue?",1
+994,"> My objection is with the explanation: it makes it seem as if this is """,0
+995,I get output identical to your Windows output on my Kubuntu 12.04 LTS,0
+996,"Oh hey, check it out, someone else thinks this is bad behavior: http",0
+997,Any update. We are a way people hitting this. Now doing bisect with TF,0
+998,"om encrypting mails. But, okay, I understand there's probably no real",0
+999,"Neither did I, to be honest",0
+1000,Is 2.2.1 even available?,0
+1001,Otto-js is just a security company that is trying to get their five minutes,0
+1002,"ation as described in Nejmeh's article, issue #146 is unrelated.",0
+1003,"Dude it's not hard. When you get the error, click the Share button",1
+1004,"Cool, if you thought about all the things then OK. I don't have much",0
+1005,"Not going to shorten my report, everything I wanted to say is there, and I",0
+1006,"Dude, Youtube has entire playlists to test AV1. Give me a second",1
+1007,"itViewport as the viewport for a Stage, > > which I don't",0
+1008,oops,1
+1009,It turned out that: - there is a lot of places using static-context logging,0
+1010,https://user-images.githubusercontent.com/21303438/216,0
+1011,"   @user -581,6 +583,18 @user >  ",0
+1012,.framework/Resources Done.,0
+1013,ainConnection.lambda$openConnection$0(RemoteDomainConnection.java:211,0
+1014,Nope. But if you have the ability to kidnap some unwary devs and threaten,1
+1015,"I stumbled across this today, and am now also fighting jar hell in transient dependencies.",1
+1016,"That's a pretty workaround.  However, I can't figure out how to reproduce",0
+1017,This has always driven me crazy (in fact I was just ungluing myself,1
+1018,"Idk what the status of that older LTS is, someone from the bazel",1
+1019,I don't see any reason for it to be a blocker for beta1. The,0
+1020,"clang-tidy review says ""All clean, LGTM! :+1",0
+1021,It just went on me with multiples...,0
+1022,Take the AP(.tar) out of a compressed archive (usually) 2.,0
+1023, noted above). As an example of a successful use of Discourse as a community forum,0
+1024,I sent you mail.,1
+1025,> I've tried a similar scenario and the problems seems to lie with Bisq.,0
+1026,OMG! Thank you!!! :),1
+1027,"Ok, I was able to reproduce. After a lot of work I could get it",0
+1028,@user and some of the others did you try listening to the company? I think,0
+1029,"> Can we remove variants of error, warn, hell maybe all logger methods that dont",1
+1030,mark.fatJar142,0
+1031,"ting me here, the technicals are cleqr and that is what we must",0
+1032,ncrease awareness of your product and improve your SEO.  see http  Than,0
+1033,"Okay, I can use DefaultHttpResponse if I don't have the bytes already,",0
+1034,"But that is silly. That means someone is starting bin/elasticsearch, but",0
+1035,Lovely rant but you didn't answer my question.,1
+1036,> and where do we find that? >  > root@bbb-up,0
+1037,"not a fan of the solution, but I tried several times in different contexts to get",0
+1038,FUCK! thanks so much! I didn't review every detail since it's just,1
+1039,e World.contactFilter and use preallocated Fixture instance instead. Don't,0
+1040,"After messing with travis a lot more lately, I am inclined to close this PR",0
+1041,I don't see the value in the change made to register converters exclusively instead of,0
+1042,"Never mind guys, my mind was sending a GET instead of a POST with python requests",0
+1043,"@user thank you for your further testing!  > Okay, I understand that this",0
+1044,"Yes, good point, you're right. I underestimated this issue. But I still",0
+1045,The main problems with.NET serverside running on Mono are: - slow cross-,0
+1046,Closing this because it's a duplicate of #1601 and #2872 and,0
+1047,"Modifying a stack pipeline is possible but is messy, [as you can see here",0
+1048,"Yeah, sorry guys, I am just going to close this PR since @user already",0
+1049,@user there is some stuff included in the commit (`performance-client-0,0
+1050,"Yes, this is something really annoying",1
+1051,yes it is misleading,1
+1052,"It's Hasklug Nerd Font Mono, which renders all chars fine in other",1
+1053,@user That's too bad. You've been developing the player for so many years,0
+1054,"> If you want to see videos you like, why not check your subscription feed for",0
+1055,m outside of the constructors class.  it is very weird... referenced line numbers,1
+1056,"Would you help me set up this domain, let me move it, and then take",0
+1057,Somewhat embarrassing,1
+1058,I labeled this discuss rather than review because it screws with error messages a bit too much,1
+1059,rror (avoids any ambiguity by forcing users to declare logic more explicitly),0
+1060,They are ahead of a China and big pharmaceutical company led panel throwing out limited recommendations that,0
+1061,People are balking at a change that will literally not affect them? This is a,1
+1062,"_From alex.mur...@gmail.com on April 29, 2012 05",0
+1063,It's a shame dbeaver can't inject a function output into a field value,1
+1064,I see this locally due to a very unusual build output directory structure.  I am,0
+1065,> I will test tomorrow with other devices to rule out the crappiness factors of,1
+1066,O EITHER PUT UP OR SHUT UP AND BEAR THE CONSE,1
+1067,I guess we just need to add the necessary `sysctl(3)` queries,0
+1068,Like a t-shirt style hom,0
+1069,"ut.println(""WARNING! NOT WRITABLE #2- "" + packet);",0
+1070,@user cherry-picked to 2.10,0
+1071,to be preinstalled) 6. pm install --user 0 DocumentsUIGoogle,0
+1072,I fully support this as someone who hates youtube shorts. Please give them a separate tab,1
+1073,The default set supplied in JAF plus the ones they configure via Spring.  Although,0
+1074,"lol, I see how seriously (as in not) this project takes backups... what",0
+1075,ah - I missed that travis hadn't finished yet. @user can you please,0
+1076,Could you _add a preference that's exposed to the user_ that would disable this,0
+1077,**[Marcel Stör](https://jira.spring.io/secure,0
+1078,Maybe I can give it a try.,0
+1079,"I had the same idea, but it didn't help.",0
+1080,Authoritarianat java.util.concurrent.ThreadPoolExecutor.run(,0
+1081,Static methods make me call ClassName.staticMethodName which is a bit ugly within,1
+1082,Oops,1
+1083,"I didn't have any luck reproducing locally, unfortunately",0
+1084,a transaction not being rolled back is related to forgetting a `@Configuration` annotation on,0
+1085,Darn it. This change results in deadlocks in the `org.elastic,1
+1086,I have to use whatsapp for,0
+1087,I understand that it is a lot of work and I know since I did a lot,0
+1088,> Has there been any progress on this? I'm now in the midst of my,0
+1089,"want to solve are, _then_ we should start creating issues to address these things",0
+1090,"e we can get anything valuable out of the test we have to fix it, alternatively",0
+1091,To give you a more complete example. ```java  Log4j2 is,0
+1092,The default behavior of ZenHub not to take the current repository when creating a new issue,0
+1093,Not only empty queries; a query containing only whitespace will fail too. It's,0
+1094,"Your initial submission does not read like a bug report, but like you don't know",0
+1095,Japanese looks even worse now... it says Ankiドロイド lol  On,1
+1096,ally automating the second one in RPM or DEB package upgrades.,0
+1097,"Nope, sorry. If your biz side wants only skippable ads,",1
+1098,You want it to be perfect,0
+1099,"re, they remain there and survive app restart, force stop, phone restart, etc",0
+1100,type: object    ‘allOf’ properties: Properties: ,0
+1101,It just feels inconsistent switching between conversation and recipient preferences.,1
+1102,"@user -- We have simply `<rule ref=""rulesets/java/n",0
+1103,This is essentially an addendum to a ticket which is essentially about something else. You,0
+1104,> I vote for C++ to have only one code to rule them all :) Python,0
+1105,s.YoutubeCommentsExtractor.getPage(Authoritarian.java:97,0
+1106,Jackson Jackson is not great,1
+1107,no -2Ftree%2Fgh-pages%2-Fblocks%,0
+1108,t exist.</i></td></tr> --- > <td><i><a,0
+1109,"Dude, I'm not a developer, nor am I an authority on what can",1
+1110,@user you can do whatever you want there. I am all +1 to even,0
+1111,"of Electron from a resource perspective, and especially from a packaging perspective",0
+1112,Ugh! That's so bad. Hopefully there is some way to prod QtWeb,1
+1113,t the current staticPicLib at that point. I know it is there because at,0
+1114,"Ahhh, make sense :D When the second one failed it was a bit weird",0
+1115,"Same, annoying. Typed few hours an email, saves as draft, tried to",1
+1116,We were using JMX + Datadog JMX integration to get heap + g,0
+1117,"hey @user sorry but titanium backup isn't supported, it'll mess up a ton",1
+1118,Ugh - every project I'm on seems to do this from time to time and,1
+1119,ot recognize the actual connection quality  at the moment the call is done or whatever.,0
+1120,Did you intend to close this?,0
+1121,@user  Argh!  Andy - your jettyFactory() method has a,1
+1122,"erg [mailto:notifications@github.com] Sent: Monday, May",0
+1123,Let's push this PR and create a new issue for that line of code?,0
+1124,ere graylog is accessible from. I tried setting `http_publish_uri,0
+1125,You'd have to ask the Arduino folks,0
+1126,"es brought on by trans-window copy/paste are the most annoying, because they",0
+1127,hat you also have to check: Afaik Chrome doesn't support Opus for,0
+1128,This seems like a major breakage; I don't think we can ship with this,0
+1129,"Yes, http Okay, I see. Dang it, I thought I'd make",1
+1130,some kind of Git mess,1
+1131,ss files generated] >    [javac] ---------- > ,0
+1132,"yeah, with rotating I can reproduce this, good catch @user Android is bad...",0
+1133,e this PR to just the REST layer change for now (which will probably be the,0
+1134,I can reproduce this on 4.17.0. When accessing the conversation list after,0
+1135,"On Tue, Jul 1, 2014 at 11:07 AM, Alexander Grüne",0
+1136,I wanted to add something else too: YouTube wants users to watch as many videos as,0
+1137,Now I won't be suckered in to thinking there is only one I18N,1
+1138,"content"":{""store"":True, ""type"":""text"", ""term_vector"":""with",0
+1139,There's just no way to allow this without causing havoc.,1
+1140,"It's as simple as that, as `Decode` is called in a loop",0
+1141,I have squashed my commits,0
+1142,I think I found the **root cause**: the **libtool in frees,0
+1143,"Strange that Google of all people would mess that up, but I guess I'm not",0
+1144,"``` You're right, I didn't filter the version properly when I was counting",0
+1145,"otherwise, great messenger. EDIT: No, I'm not doing this. I",0
+1146,I had rJava working last month but now again the same error (Upgraded to,0
+1147,"r and gettingposts in return.  If they aren't developing for XP anymore,",0
+1148,Have mercy I have a life outside of the computer. Also since I don't get,1
+1149,I love the stats - don't talk about it!,0
+1150,I'm blind,0
+1151,I was just about to suggest this. I like to mute most of my conversations so,0
+1152,Oops,1
+1153,I expect it so much.,1
+1154,"xperiments: change number, delete number, create contact, duplicate contact with deriv",0
+1155,Oh boy some tests failed. I guess I shouldn't be surprised.,0
+1156,"This will not happen for WebDriver, as this feature is outside the scope of the",0
+1157,"+1, those low-res pics are really ugly",1
+1158,"Hey, have you signed the CLA?",0
+1159,"Got it! It was in my ""global"" settings!",0
+1160,It's the doc's issue,0
+1161,The intention of the forbidden apis stuff is just to prohibit our own developers from using,0
+1162,You can sign a petition about it?,1
+1163,Oh my.... The 'extra_data field' is not used in many payloads,0
+1164,"ugh. There are more recent update present (recently opened and already merged), ph",1
+1165,You are correct. I forgot to disable for 3.9.6.,0
+1166,security exception (because only `jaas_nt` is added right now. See,0
+1167,"If we could backport this to at least 2.10 when it lands, you",0
+1168,It seems like the only safe option is IMHO to give the user the opportunity to,0
+1169,I messed up and now the PR is closed. What should I do? Should I,1
+1170,By the way: **_Big warning**_: If you want to try this,0
+1171,"FYI, I was able to build Bazel from source, and it seems to",0
+1172,AK-cache-init) receiver thread started 2022-06-14 00:31,0
+1173,That was fast.,0
+1174,Same issue here. Thanks to kjongsma for the pointer re using a Cont,0
+1175,cool! Streaming the file would be way cooler :),0
+1176,Something's wrong with travis again?,1
+1177,"@user thx  yeah, saw SSHJ support.  started looking at it",0
+1178,xD you've never been to germany. Everyone says we have a bad,1
+1179,s slow due to #370. I'm not sure what would make the most sense,0
+1180,so this is so we can reduce the call of a method so dalvik is,0
+1181,We should really fix this everywhere.,0
+1182,Seriously... Rebase,0
+1183,*[hhildebrand](https://jira.spring.io/secure/,0
+1184,I have a very similar issue which I highly suspect being the same issue and am happy,0
+1185,"Oh shoot, I didn't realize there was a failing CI thing. There was indeed",1
+1186,Not if it requires ugly hacks that aren't guaranteed to work. Just my opinion though,1
+1187,> Rework parent-join to not require access to DocumentMapper  hell yeah,1
+1188,{name|*|_all|blank}/_mappings|_aliases,0
+1189,"To be honest I didn't know it would make a difference (yup, I",0
+1190,"d, but at the same time provide a good alternative that doesn't force a single",0
+1191,Being lenient if something is registered imho is a good thing. Personally I prefer,0
+1192,This is private class FieldPropertyHandler extends PropertyHandler. GetPossibleMatches());,0
+1193,I wrote the following to validate the issue. This did not return from the keySet,0
+1194,"s not necessarily a reality for all people around the world. I personally, prefer to",0
+1195,m/1562600/145202100-7743393d-0,0
+1196,> it seems like we need to implement grow-ability to save cost of zeroing,0
+1197, (core/ security file) are too generous/lenient. So by restricting it,0
+1198,ps,0
+1199,"on-developer-summit-ix/), [here](https://big",0
+1200,Sounds like a no-brainer merge. Thanks for spotting this!,1
+1201,o better,0
+1202,**[Jean-Charles Eloi](https://jira.spring.io/,0
+1203,I’m not an expert on the matter but there are cases where jav,0
+1204,Thanks... obviously we can't merge until you finish all the icons. It looks fine,0
+1205,"t, on the other hand, they won't be hanging out as friends either.'",0
+1206,"OOOpsie, did not notice Mario's review was still pending!! Apologies!",0
+1207,>>@hipunk how old are you?  >Your code is not good.,0
+1208,Hi @user thanks for your contribution!  In order for us to evaluate and accept,0
+1209,"First off, thanks for the reply! I've been using that trick in the meantime",0
+1210,"@user you need to keep updating your own fork with changes from the upstream, if",0
+1211,I don't understand what you mean.,1
+1212,"Well, I did fix it (the semantics of _fixing_ were not specified",0
+1213,iveWorkQueue.java:83)  So it seems to be a general haz,0
+1214,"Yeah, having examined this I can only reach one realistic conclusion:  Signal got too",0
+1215,"You are basically asking me to change the whole world, as [latest flume api",0
+1216,"@user Thank you so much for your instruction, that's really helpful. On a",0
+1217,damn imports :),1
+1218,"e same name and argument count, one that depends on *C* >  ",0
+1219,"No problem. I'm the Go guy, so I'll be adding you to my",0
+1220,Nope - you are plain wrong! Just installing upstart packages does **NOT**,0
+1221,@user  We re-analysed our code. We were calling Couchbase as,0
+1222,You can always return possibleAddresses;    }   private static void,0
+1223,"This doesn't fit the strict definition of high impact, but it's so ugly I",1
+1224,"Hi Simon, I guess I used to use the 'I need support' trigger words",0
+1225,"es to require user interaction to review and approve the trade, signing the multisig",0
+1226,It feels so out of place and hard to find in the nav bar,1
+1227,pi-2.11.1.jar,0
+1228,Whoever has the first multiclient video aggregator (especially for Android) will go,0
+1229,I haven't been following this closely so someone else can feel free to press the scary,1
+1230,What a mess,1
+1231,I see that map.put() exception in this crash log: 2020-02-,0
+1232,"Lol, please undo",0
+1233,People are looking for updates,0
+1234,I had my wires crossed. This wasn't fixed.,0
+1235,Wow!,0
+1236,"@user   `ByteBuffer.allocate()` is used 152 times,",0
+1237,@user I had to do another round of unfriending here sorry - can you,0
+1238,@user You cant believe it can you?,1
+1239,appen (because I saw this happen multiple times). Only way to decrease chance of,0
+1240,What does your code look like? I only get this when I do the shadow of,0
+1241,@user bullies can get a new phone number and harrass you completely without groups.,1
+1242,+1 At least massage the documentation so it's clear that it does not work with,0
+1243,Are you using the latest GeckoDriver and still happens?,1
+1244,"|_primary {  ""size"": 0 } 389995 GET INDEX/",0
+1245,I'll see if I get a chance to do what you need this weekend.,1
+1246,@user just for my info what kind of serialization approach are you using? Are,0
+1247,The PIN reminders are a whole other problem that honestly should be filed as another bug report,0
+1248,I've seen this several times today in Travis,1
+1249,Is it fixable without just making things slow?,0
+1250,sed indirectly by almost everything. When I make its methods return something more abstract it ends,0
+1251,"I felt a bit silly asking, but I gotta cover my face :)",0
+1252,@user well but that's a big usability issue. You can't make the user,0
+1253,ostProcessor<>() {  condem condem condemuffer,0
+1254,"de via rotate button, than click the fullscreen button NewPipe keeps beeing",0
+1255,I ran some more tests this morning. Actually maven assembly plugin doesn't work when,0
+1256,"Ok, I had a """"working"" example back in January, but there's no",0
+1257,Once and then search on that. Just like the navigation pane works (cache should be,0
+1258,*Original comment by @user  I spend some more days thinking about this and I,0
+1259,Looks like you've broken everything,1
+1260,"Sticking it into git makes sense, I was just explaining that I didn't go",0
+1261,Round 4 looks amazing! I'm looking fwd to all future rounds to come,0
+1262,"[""Jara Cesnek"":https://jira.spring.io/secure",0
+1263,"Hmn, this is strange. I was encountering the bugs when rebuilding and checking ur",0
+1264,"Please share problems, they should work out of the box.",0
+1265,This happened to me once with Paranoid Android. Except it didn't happen in TS,0
+1266,bat scripts just don't kill their children by default. Either way I can work around,0
+1267,It doesn't do any such thing.,0
+1268,ze() i++) {    queryPart1.must(....) //,0
+1269,"Without at least your Operating System, the DBeaver version and how you did install",0
+1270,"Thanks for the additional investigation, @user  I reapplied my custom CA cert and",0
+1271,odel and without any copy share it others. I still think that refactoring,0
+1272,With nm being the SI symbol for nanometer I'd go with nmi for n,0
+1273,"Can't reproduce it on 1.5.4, so I'll send in a",0
+1274,This feature would be really handy since the built-in player offers double tap to re,0
+1275,eb already has too many other variables adding a few milliseconds here and > there to worry,0
+1276,I was thinking the right way to fix this is to make the toXContent version,0
+1277,Yeah yeah! Totally forgot to move those to variables. Thanks very much!,0
+1278,"Btw, when the TS emoji drawer is open and you tap the input box to",0
+1279,"Yes, save yourself the pain and DO NOT promote it, as you will have egg",0
+1280,"sung SM-X200, on Android 13, and Newpipe v0.25",0
+1281,"Thanks Dorian, I’ll dig through you log if I find some time",0
+1282,"Oh, that was my offer :-) Got an error message: `io.bitsqu",0
+1283,wasn't tested against! I'm sure it can't be that hard to fix,0
+1284,@user this is feature creep,1
+1285,People need to fill out that template in order to get their issues fixed as efficiently as,0
+1286,Ugh... In http we disabled instrumenting androidx.* packages by default. It,1
+1287,max_participants_in_merge=100max_interval=3,0
+1288,ly want to avoid: - Other apps reading our files (which you don't get,0
+1289,Can someone with a self built Signal and Location API key test these steps: 1.,0
+1290,OUR WEBSITE AND WHAT EVERYONE DOES IN OUR POSITION IS BUILDING,0
+1291,@user making fun of absurd and petty demands is not being rude and insensitive. The,0
+1292,ght after queueing (please let me know if I'm missing something). >,0
+1293,u need to set a different one for each Broker),0
+1294,"If you hit more of these failures, please don't hesitate to pull me in.",1
+1295,at it doesn't use too much space. Nowhere does it tell you to do,0
+1296,I offer my condolences for your split-personality environment,0
+1297,> maybe more fixes are needed?  rules_kotlin are still failing because,0
+1298,Same here the download will always in queue and i need to manually start it. Its,0
+1299,://demo.doit.com.sa) > > Regarding this issue the,0
+1300,"Bad for me, I hate Sql Developer",1
+1301,"Hey, @user. I completely forgot about it. I will take a look at",0
+1302,"@user I asked our internal education expert, and he doesn't know of any good",0
+1303,goof up from our end. JMeter was sending hundreds of requests within milliseconds because,1
+1304,t I thought that It can be complementary to other common http statuses. We are,0
+1305,I hand-edited the data so I may have messed it up. let me double,0
+1306,"clang-tidy review says ""All clean, LGTM! :+1",0
+1307,s: my.base.entity ```  Maybe we should also externalize the,0
+1308,Why does bazel require custom certificates from Oracle?!?,0
+1309,Nevermind,1
+1310,It's always an ugly solution.,1
+1311,", doesn't it help future users to have this page contain the answer rather than force",0
+1312,The first time I thought I'd completely lost important information (because I do other stuff,0
+1313,@user this is massive. Seems like each and every signal instance will be completely destroyed,0
+1314,"Tiles are not adaptable. <a href=""https://www.eclipse",0
+1315,"Featuring XMR and ETH alongside BTC is a mistake, plain and simple. Using",0
+1316,@user  > > Could you share the error files with me? Absolutely. The,0
+1317,I couldn't reproduce the bug,0
+1318,"Name, rank) values (1, 'Joe', 'Worker Bee'); insert",0
+1319,"Yep. It just needs a good, hard, loving kick every now and then",0
+1320,What are we going to do with this PR?,0
+1321,e whole system into a uber-FUBAR state - Elasticsearch complaining about it,1
+1322,I'm happy with this direction and think we should do it. We can always move,0
+1323,t lets it run. So awesome guys. 2. attempts to index anything with threads,0
+1324,This looks so much awesomer! you rock,1
+1325,I'm not sure how default programs are set in W10 and made it significantly harder,0
+1326,ist ADD./*.patch./ RUN git apply github_7135.patch RUN,0
+1327,nnectionService.register(RemoteDomainConnectionService.java:287) [,0
+1328,"Yea, I understand. What travis-ci means by ""failed"" is",0
+1329,@user : I am going to answer your questions here instead of spreading them across several,0
+1330,"off heap memory use, we decided to start Bisq on Linux and OSX with",0
+1331,Just a quick update: I knocked together a _really awful_ proof of concept.,1
+1332,using `static import` won't work anyway cause java is a terrible language. You,0
+1333,What is wdong with you?! I said I'm reporting what appears to be,0
+1334,ive of the backend.,0
+1335,I don't think we're ever going to get the requested info.,0
+1336,I don't want to support this task at the moment. We have a hard enough,0
+1337,"hat said, if you've got something that you think works, go ahead and post",0
+1338,I don't even know if I still have the corresponding code! I think this can,0
+1339,"Darn, we were hoping that this would be resolved by Electron, but it",1
+1340,"Nobody has asked for this since I first filed it in 2008, so nevermind.",0
+1341,d this,0
+1342,"I don't have WhatsApp ;,,( But singing sounds fine on Signal before this commit",0
+1343,"Add more critique, because during tight critique best ideas will born. The time has come",0
+1344,t on GitHub > <https://github.com/stanfordnlp/Core,0
+1345,anDefinitionParser does not allow us to inject a HttpMessageConverter.,0
+1346,Thanks for your feedback! I will see if I can do a test with the demo,0
+1347,I think the strategy used so far (keep the exact same file) is not work,0
+1348,People need to pay,1
+1349,py to clipboard. Then paste it here as a comment or edit your issue and >,0
+1350,"Yeah, it doesn't fix the same issue with iOS, so we'll stick to",0
+1351,"ToS are not law - it just means that if you violate them, youtube is",0
+1352,@user just pushed changes that address all your comments. I really like how the code,0
+1353,Is any keyword supposed to be valid? Can you do this (even though it's,0
+1354,"> Rather than commit to an API defining how we interpret those files, I'd strongly",0
+1355,"Hi, Ryan was talking with me about this as I am the ""Apache Guy",0
+1356,pace to failure than the usual plain image.   With this change we would at,0
+1357,@user Sorry I took so long to get back to you. The problem then becomes,0
+1358,What if we push the journal down in the future?,1
+1359,"ided=false, linkWhole=false.AuthoritarianFlags=[], exportedPre",0
+1360,"in' load of resources you can learn from!  Arguably, much better",0
+1361,I didn't record me trying to open the application afterwards but trust me it did the,0
+1362,used on many servers to support the learning of spam by spamassassin. It's,0
+1363,@user I had not yet pushed it. I was in backport for a while,0
+1364,The sooner the better,0
+1365,We should do it properly or not all. Supporting removable storage is a new enhancement -,0
+1366,"I'm sorry, all is well",0
+1367, source } ```  FFmpeg command: ```bash ffmpeg -f lav,0
+1368,"@user Yeah, I'm still stuck waiting on Google to approve the update. ",0
+1369,"It need to be fiat currency, so EUR or USD are the only one which always",0
+1370,"I dare those OSS maintainers! You must not interact often with people, if",1
+1371,The object.wait(0) is a HUGE WTF,1
+1372,"Yes, on, off, etc are supported because of the YAML spec:",0
+1373,riating honestly.  Other than this and a few other crashes my biggest pet pee,1
+1374,"For your ""horrible reflective hack,"" you could replace `org.springframework.",1
+1375,usually just a matter of checking the changelog when it's a semver major,0
+1376,@user you rock,0
+1377,Same here (1.2.0.M1 is not sucking). What changed,1
+1378,"Danke, that will come handy",1
+1379,y it could happen. I got my own projects...,0
+1380,"@user Just hate good apps going to waste, man. And people who aren't",1
+1381,I just tried this locally and `\\\\` seems to work. This two layers of,0
+1382,n loggingPrefs map * `--log-level=LEVEL` without log,0
+1383,Ugh... seems like a further modification to `ResourceHttpRequestHandler` would be,1
+1384,"FYI, I won't have time to look at this today.",1
+1385,", but it always worked before until a TextSecure update. Have you guys considered just",0
+1386,Thx to all reviewers!,1
+1387,All the mono tests are still pretty bad... kicking this down the road.,0
+1388,_library` saner for everyone else. That's _still_ not a tiny,0
+1389,"You're right, I was looking at old specs :)",0
+1390,I love the haiku!,0
+1391,I found the error. Will push a new release soon.,0
+1392,"nage().logs().get(""performance"")`, but we actually removed support for",0
+1393,It seems like pom.project is not a good parent.,0
+1394,We need to start using osgi or something. All this shading is getting ridiculous,1
+1395,"The first part of debugging whatever is happening there, will be to ensure we get a",0
+1396,This is not totally needed.,0
+1397,Dang! 🤦‍♂️ I figured it was something simple,1
+1398,Seems the internal wallet database got messed,0
+1399,Dug into a test with mutliple fortunes and they're passing as expected now,0
+1400,> Hi. Could you please tell me how to stop these emails? I took interest,0
+1401,That won't work in this case @user   Here we are actually testing what,0
+1402,b.com> wrote:    I still have the same issue with a,0
+1403,I believe that it's important to declare a checked exception.,0
+1404,I am sorry :-D,0
+1405,damn,1
+1406,`--define` is more than just `goog.define`s. You,0
+1407,"I think I found the fix, PR on its way.",1
+1408,https://github.com/TechEmpower/FrameworkBenchmarks/issues,0
+1409,"So what roundcube does here is that it creates clearsigned messages, and wraps them",0
+1410,Very strange. I still don't get why gcm always messes up with text,0
+1411,Woah! PITA is right. Silly windows. 260 characters is enough for,1
+1412,@user Have you solved the problem yet? I had the same problem.,0
+1413,"I found them. Nevermind, and I'm sorry for the false alert! You",0
+1414,NkiDroid/src/main/res/layout/floating_action,0
+1415,"Oh silly me. Wrong import, fixing it now.",1
+1416,I haven't seen this bug in a while.,1
+1417,I don't have time right now,0
+1418,I'm having the same issues.,0
+1419,Seems like a bug in Homebrew's clang wrapper...,1
+1420,My notebook got stollen on Christmas. On its disks where all the signing keys saved,0
+1421,What is the more open and transparent way? Especially with the analysis part the input from,0
+1422,If you want a badly designed open source app with less settings that just reads and writes,0
+1423,"I really dislike the *ApplicationConfiguration classes. Mario's fault, not yours, X",0
+1424,It would be very easy to implement this for the compiler.,0
+1425,@user You need to add `.toWebElement()`:  ```,0
+1426,"Just happened again, this time within just a few days of the last failure. Tests",0
+1427,Also happening when comparing the results of two method calls that return long. For example:,0
+1428,">Thanks for making this, and also good job! You're welcome. I wanted",0
+1429,### Resource Management A conversation with @user revealed one of the key goals of the `,0
+1430,This doesn't feel worth doing.,0
+1431,Aggh.  This is a botched issue entry. The root cause was 1.,1
+1432,@user I think we might already be at peak-workaround. The webr,0
+1433,"Wow. Or should I say, Duh! How did I miss that?",1
+1434,"This is unfortunate. I understand the motivation, but as a user experience it's pretty",0
+1435,**[chris alme](https://jira.spring.io/secure,0
+1436,> Why is this crashing the restore and not simply ignoring  > not should Signal users,0
+1437,"If you've misconfigured XPrivacy, TextSecure is going to crash.",0
+1438,It seems like: while(true) constant-constant-time break-BO,0
+1439,"Sorry, this is one of those things where we're literally loading an image based on",0
+1440,"My contacts are having the same problem as described by Fanch3n, with the",0
+1441,"If you're using a combination of goog.{module,provide,require",1
+1442,forcing the expected functionality condescending or user hostile?,0
+1443,Maybe you can tell us what prevented you from starting up again?,1
+1444,Nevermind. I found a matching crash in the Google Play Console.,0
+1445,Gerrit already requires a patched version of buck that is 4 commits ahead of your tree,0
+1446,"ecomment-1420639177>, or unsubscribe > <https://github",0
+1447,"Well a whole book in the title is bad, nothing important to read. But I",0
+1448,"Verified. Bug present. Should be Bitcoin, not Litecoin.",0
+1449,> What a heartbreaking end to this search. Yup. +1 from me.,1
+1450,Doesn't look like it: ``` shell $ curl -XGET http {,0
+1451,A Torquebox sounds awesome. Can't wait to see this!,1
+1452,> Any hints what we can hope for? :D  I really hope that gets,0
+1453,"``` Ok I tested it, and it works great now that the times are the",0
+1454,It kinda does if you have to check it into your scm. And if you,0
+1455,Task.access$201(ScheduledThreadPoolExecutor.java:180,0
+1456,What a bunch of devs to not support such a basic feature.,1
+1457,Please reopen if this doesn't fix your issue,0
+1458,"Yeah, let me look in to codacy in general, it's (in my",0
+1459,Owww.... my fail sry. I got confused with /storage/emulated,1
+1460,"Nobody comments? Good job in finding this, shame that this ticket is open. Any",0
+1461,@user I will take a stab later on this as it need some more love to,0
+1462,java:69) ,0
+1463,BufferWrapper (2093842997) [visible=[java.nio.,0
+1464,**[Sam Brannen](https://jira.spring.io/secure,0
+1465,You have no idea how happy this makes me.,1
+1466,That's pretty strange. There's never supposed to be a dark actionbar with light,0
+1467,"By not being an ""official"" method, it won't be in the references and",0
+1468,"e trading pairs more clear, I suggest doing it more subtly: - ordering currencies in",0
+1469,I hate Xiaomi. They are a big pain in my other projects too. And totally,1
+1470,It is the same... very annoying,1
+1471,"IQueue<Integer> queue = Hc.out.println(""list should be",0
+1472,The server considers someone incapable of receiving messages if their GCM or APN id is,0
+1473,"Ah, it's essentially the same problem as Orika has (#3697).",0
+1474,"_From jweissma...@gmail.com on October 17, 2010 07",0
+1475,"I think it's not only strange, its WTF moment.. When `tryLock",1
+1476,"Shooting for the stars, no less",1
+1477,"Thanks so much for the issue, @user I just put a fix in master for",0
+1478,Result would be messy and ugly code,1
+1479,@user @user as i wrote in the linked ticket ( elastic/logstash,0
+1480,687c7  /system/lib/libdvm.so   ,0
+1481,"arimus, kimchy accepted a pull request, fixIndex() is now included",0
+1482,"I greatly appreciate all that you do, especially with respect to electron. Please make it",0
+1483,"Hey Druid community, Calling for volunteers to help out with this PR. It would be",1
+1484,I would never think that being a martial arts master would be oppressive... I actually resent,1
+1485,"e needs to be documentation, limits, something to prevent the anti-pattern.",0
+1486,"> Dang, must have just been luck. Want me to force push with the",1
+1487,"ts, you only mention server notifications that can be done via Internet. This supposes",0
+1488,Sounds like a candidate for a getting started guide.,1
+1489,ing way more to break,0
+1490,"Resolved conflict in web editor, strange result",0
+1491,I still don't see answers to my questions.,0
+1492,Tank you. I don't know how to do and where to post it...,1
+1493,"Thanks, it must just be the github diff renderer then",0
+1494,uld instead be `spring.jackson.serialization.write_dates_as,0
+1495,rebased and refactored to be looked less awful,1
+1496,>too ugly to use selects.config_setting_group  if your use case,1
+1497,to convince me it's worthwhile to work here.,0
+1498,Show your code,1
+1499,> 0.23.1 is still slow. Incomplete info. Slow where?,0
+1500,Do you see this behavior every time you resume your computer?,0
+1501,I love Kotlin but your OP makes me cringe hard. You suggest to replace ,0
+1502,Also a bit annoying that @user made me close my issue as a duplicate of theirs,0
+1503,@user why are you sooooo angry? We just listening people's problems...,1
+1504,t may actually be better for `type` to be a list. This would remove,0
+1505,did I? you may never know....,0
+1506,I wish they were all that easy...,1
+1507,1. No information given how to provide logs. 2. No necessitiy shown,0
+1508,-07-14T22:21:29.575+02:00 DEBUG,0
+1509,"That's great (creating.js and.java files), but it only solves",0
+1510,ava:32) ,0
+1511,"The best part was having the unified platform for SMS too, not having to worry about",0
+1512,"me it enters one of the predefined interruption points with interruption enabled, or if it",0
+1513,I'm not a fan of these dialogs at all... they're really ugly :,1
+1514,@user @user Tausend! Workflow approved and once it finishes we should,0
+1515,"any update on this one, it seems silly not to have one years after introduction.",1
+1516,Ah I committed with the wrong email.,0
+1517,I want this future!,0
+1518,m/782704/195929584-d5ed0427-782,0
+1519,l agenda and kill off the opposition. I am shocked that the new team might buy,0
+1520,@user can we close this PR now that we have moved discussion to http and have,0
+1521,"What makes diving deeper a non-starter?""",0
+1522,> > I have the same annoying problem with the site not being able to play age,1
+1523,@user What if you try using  ``` if (key && key.index,0
+1524,"``` java private static void testLocalizedSimpleDateFormat(String template, Loc",0
+1525,I think licenses directory should just be mandatory. If its supposed to be lenient:,0
+1526,nevermind,1
+1527,   65261  10-25-14 15:20  oro-,0
+1528,Eyeballing it... it seems that the fix may be updating the closure-library,0
+1529,@user let me quote @user from the linked issue  > provide a pcap,0
+1530,key)%2520%253A%2519desc%252C%25,0
+1531,Too late now I've already opened a new issue. Don't mess people around,1
+1532,You had to dive into a lot of bad code. Really nice patch. Thank you,0
+1533,"Yuck, yeah this is super unfriendly. @user what do you think",1
+1534,"Yikes, there are 17 in the JavaScript folder; 7 in Ruby. I'll",0
+1535,The clientCert.getCert().getBytes()));   ��  ,0
+1536,Oh it's totally unreadable. I think I rename the file! I do a,0
+1537,Reported for abuse,1
+1538,I like this guy,0
+1539,> Then selecting either Show info or Video player would mean the same thing for a video,0
+1540,Ok I have stumbled upon something quite strange. It could be a libGDX thing,0
+1541,".x, that means you'd be able to use that version for ~10 days",0
+1542,o (dvmPlatformInvoke+112)    #15  pc,0
+1543,You really got to have the big preview screen possible.  so i'm asking you,1
+1544,Yes it was. Normal text messages from TS to TS. The problem was an out,0
+1545,@user It seems like this code prefers the Argentina phone variant that *does not*,0
+1546,Oh. Ok. Let me give that a try in my application. Thank you!,0
+1547,lector.commit(InfoItemsCollector.java:104) ,0
+1548,"ch companies, media, academia, and so called independent entities and public organizations are frequently",0
+1549,", is time taken away from what could otherwise have been spent fixing bugs, adding features",0
+1550,> I'm struggling to see why having the if condition in your code is a bad,0
+1551,This PR is not good. I _think_ he's updated pretty well now.,0
+1552,ly  to backup inconsistent data once that is detected. The initially proposed approach would help,0
+1553,"nces.  Nope. Performance issues, page decoding issues, video stuttering issues -",0
+1554,"@user Hi, you can try to disable Hippie Engine autocompletion. It",1
+1555,"Gradle is such a pain with dependency management. Can you start your app with """,0
+1556,This is a constant irritant for me. I have a dozen or more contacts that,1
+1557,Where are you pulling this Jetty version from?,0
+1558,"IntelliJ is fine with these annotations ;) But I agree, there is no point",0
+1559,ode to solve this problem (which is common in Germany).,0
+1560,"Man, I really need to check my mail",1
+1561,I highly doubt anyone could have managed to install Bazel on your iOS device.,1
+1562,"Felix,  If you are referring to ""Chase"" bank - for flash",0
+1563,"So here's my guess what's going on: S has only recently signed up,",0
+1564,"Sorry, no progress. I haven't touched Android for a year. I think that",0
+1565,//lucene.apache.org/core/5_3_0/,0
+1566,``` Thank you so much for replying so quickly.  We have just figured,0
+1567,I am getting the same problem sam-s. See the following results: Sentence,0
+1568,Was this ever resolved somewhere else?,0
+1569,@user just one tiny comment then I will cherry-pick,0
+1570,For anyone working on this revert back to 1.5.0 (1.5,0
+1571,"> I'm sure other users would disagree,  Yeah. All those security systems running",0
+1572,This hasn't been touched in almost a year,0
+1573,"@user Hey, glad to see someone who went a similar path, and thanks for",0
+1574,"Someone who is not able to modify a shader has no business developing games, tbh",0
+1575,gn-2018 (or whatever you want to call it) right now in your checkout,0
+1576,This is what causes problem with date values: ``` Unrecognized type 'java,0
+1577,No need to cling to a PR that's never going to get merged.,1
+1578,"I've tested myself, and got my butt",1
+1579,"o be addressed.  In lieu of this fix, overwriting BeanWrapper",0
+1580,sly. But during execution (i.e. inside `draw()` and,0
+1581,Ok this is not smart... Creating a big endian buffer first and writing its bytes,0
+1582,ependencies (package group references) and things that don't (`visibility:,0
+1583,"I agree as well, we should wait until the API is stable. Having a new",0
+1584,Welcome to the world of open source.,1
+1585,Are you still seeing this issue?,0
+1586,   4771    28253 -/+ buffers/cache:  ,0
+1587,This. Signal either needs to fix their broken-as-hell group messaging code or,1
+1588,"Yes, RCs have this issue?",0
+1589,People forget it. Talking about future.. my fear is that the blatantly weak autoc,0
+1590,"I feel like I've been to Hell and back, figuring out Unity. Think I",1
+1591,It also happens when running rstudio server in AWS EC2 Ubuntu instance and it,0
+1592,Thanks for the update. Seems like your MacBook doesn't do the tests. You could,0
+1593,"> Can we remove variants of error, warn, heck maybe all logger methods that dont",0
+1594,thanks for considering me for test.  But since there seems no respectful place for discussions,0
+1595,"Well we build a Query as a filter for permissions, and in some case the user",0
+1596,did I say something wrong?,1
+1597,YAML is such an error prone thing... I don't think we want to,0
+1598,"I'm fine with excluding it, but add a line of comments about why we can",0
+1599,"e slow. As for the tests -- I agree as the throughput rises, the latency",0
+1600,_From [badlogicgames](https://code.google.com/u,1
+1601,"Better be safe than sorry. If that's not a problem, just sign the thing",0
+1602,"The test ran close to midnight. In SQL, when casting `TIME` to any",0
+1603,I think the extra space on the iPhone 5 might have to ship special images that make,0
+1604,t annoyed by once entering a password into their computer. The amount of ignorance and absence,0
+1605,"@user, thanks for PR.  travis buils was restarted as PR",0
+1606,Does anyone figure out this bug?,1
+1607,"> Wow such an angry person... this is open source, you don't get to",1
+1608,It went all wrong.,0
+1609,You cleanup 2 pieces of code.,0
+1610,code for the regexes in the lexer. I investigated that. We can do,0
+1611,"@user since the decider is part of the balancing process, the allocator will",0
+1612,"Probably you already discussed before, but I'm not finding where or when the necessity of",0
+1613,":( shamely, I missed some methods",1
+1614,"me in more useful tasks. Instead, try to gain more publicity, tell people about",0
+1615,@user How is it possible that the import accepts ZIPs for you? It's,0
+1616,NoClassDefFoundError: org/apache/http/protocol/HttpContext,0
+1617,@user it,0
+1618,Is there any way I can throw a bounty on this?,1
+1619,This looks great! I am glad test-framework is no longer dragging in stuff like,0
+1620,"Agreed on the advanced editor, I'm suffering in that 🍝 right now",0
+1621,We have this: https://github.io/openapi-generator.tech,0
+1622,Another uglier solution that might work for 1.2 would be to offer something,1
+1623,Wow great progress! Had you looked into jsocks (that lib/module inside Bits,0
+1624,"I do not know how to add link to that list, dues to maven site",0
+1625,I think the problem is how you have defined equals and hashCode methods in Wtf,1
+1626,me I update a document I've to read the aliases - handle logic if one index,0
+1627,@user Can't we have some kind of intelligent 'enabled' property that does as,0
+1628,"> I like how the retry_failed simplified things.  it complicated things,",0
+1629,This is still an issue and it's maddening,1
+1630,"when I open it, and even remove Trending completely. I still hate that Trend",1
+1631,**[Rob Harrop](https://jira.spring.io/secure/,0
+1632,er.hasMoreTokens()) {   int   String templatePathToken,0
+1633,"This topic has come up before on here, in the irc and on the forums",0
+1634,This has been already requested by me: http  But I still agree: please implement,0
+1635,You're wrong. Newpipe unfortunately shows all the shorts. The option need to be,0
+1636,"This report tell us nothing, looks like you used http we do not need to test",0
+1637,If its that bad and your have that ffmpeg option anyway in your product.,0
+1638,Hi was looking for an image resize feature. Would greatly appreciate it. Modern phones generate,0
+1639,is your log spammed too?,0
+1640,AuthoritarianBuilder.apply(AbstractConfiguredSecurityBuilder.java:133),0
+1641,You should not even be able to use WhisperPush and TextSecure on the same,0
+1642,What are the draw backs of this? If the video keeps playing without pauses isn't,0
+1643,"Ah well, this is beyond my skill level, I can't figure out how to",0
+1644,**[Dave Syer](https://jira.spring.io/secure/,0
+1645,This is a big step backward. I managed to get high Signal adoption in my social,0
+1646,"goes my free weekend, thanks guys, really... great.",0
+1647,/bin/buck build --show-output buck > > b-out/gen,0
+1648,I'll merge this as soon as everyone behaves. Now kiss. Am 10.10,0
+1649,Kicking down the road probably related to our mono issues,1
+1650,Is this too nasty a hack to be worth it? I'd love to be able,1
+1651,"From the PR associated, Postgres is referenced which is a pretty good example. ",0
+1652,"Why is file() still on FileHandle,",0
+1653,"I wonder if ""offensive"" is considered offensive too these days? if so i can",0
+1654,"There was MUCH more to the ""Inbox"" app than just merely snoozing",0
+1655,Debug (actual command line) and then use it in Idea debug config. How it,0
+1656,I'll give it a shot.,0
+1657,People who watch the project on GitHub will get a notification every time you do that.,0
+1658,"with the hardware, and then add some way to serialize tests around that resource requirement",0
+1659,"Right, I was forced by Google to generate a new password, which I never will",0
+1660,It always throws an error if it tries to read after resume.,0
+1661,"Elastisearch comes *""broken by default""*. In order to have it",0
+1662,e to a halt as it tries to use more ram than your machine actually has.,0
+1663,It's a project on which people work in their free time. Requesting things in,0
+1664,Are we done here?,0
+1665,"@user - to reproduce, you need to use at least 2 instances of Safari.",0
+1666,Without logs or any debug information this is just an unhelpful rant. I'm,1
+1667,I understand your frustration because you (and I also) don't have the working knowledge,0
+1668,It doesn't look like you've updated the PR.,1
+1669,@user  > We'd have used it if we liked the API better but we,0
+1670,TH ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under,0
+1671,r.  I'm not the only person with this issue: On 12/15,0
+1672,"@user what's the semantic of the `true`?  Does it mean """,0
+1673,Wow. I can't believe it was THAT simple and I've been dealing with having,1
+1674,"This is an enum switch on SourceVersion. To suppress this problem, add a comment",0
+1675,"@user Thanks for all the help, but this is frustrating.",0
+1676,d.nlp.dcoref.sievepasses.Deterministic,0
+1677,I   #24  pc 00060581  /system/lib/lib,0
+1678,I'm looking at you! (I don't monitor the whole NewPipe repo,0
+1679,t.payload.phoneNumber.number == @user,0
+1680,Assigning a priority to stop bot nags,0
+1681,This parse tree is not good - where does it come from? In theory we should,0
+1682,I'm afraid this is not possible in current Eclipse platform. I can't explain why,0
+1683,Here is an idea: looks like in your PATH you have both `C:\Program,0
+1684,"Or where the index is considered ""cold"" by the user anyway. In those cases",0
+1685,"Nah, telling people what “correct” is for their hosts file",0
+1686,"I have the feeling, this has to do wth the changes in #6149",0
+1687,"refer, but expect chat help to be 1st line bots without a clue ",0
+1688,crap,1
+1689,Indeed I did! Punting people.,1
+1690,"Heck, all JVMs crashed?",1
+1691,You can reuse a file of mime types but you won't override any server level,0
+1692,"Because so many archives exist, writing a correct `genrule` to merge archives is",0
+1693,Please provide concise reproducible test cases and describe what results you are seeing and what results,0
+1694,I just had to boot an activist from our secure group chat because his account got taken,0
+1695,"FYI, I'm going on a week's vacation starting tomorrow, so I'm",0
+1696,Are you asking or telling us?,0
+1697,"was 'celibate' and 'hated men', but interestingly said she was",1
+1698,"Actually, it is kind of silly that an app that explicitly declares `@EnableOA",1
+1699,"Nevermind. As usual, when I complain about it, the issue magically resolves itself",1
+1700,358][INFO ][o.e.n.Node ] Failed to find a usable,0
+1701,WTF,1
+1702,You ninja,1
+1703,What kind of strange code do you mean?,1
+1704,May God bless you for whatever you can do.,1
+1705,Well I've just got 2.1.beta4 up and the issue is still,0
+1706,Thx for your explanation!,1
+1707,"clang-tidy review says ""All clean, LGTM! :+1",0
+1708,6.0 wasn't even released I reported this bug... why bother tracking down that,0
+1709,"Chill, mate. This is being worked on as a Google Summer of Code project",1
+1710,d.  Start with empty dashboard and client or shared attribute change widget ( it`,0
+1711,rking on hooking it into the integTest part of the build.,0
+1712,You are welcome. Thank you for the ultimate tool. It truly rocks!,0
+1713,"@user nope, you're good. Thanks for the contribution!",0
+1714,lution would be to always do a ZK `sync()` before reading the,0
+1715,I did figure it out - it is not obvious to the first time user. ,0
+1716,I expect the tests to pass now.,0
+1717,``` Can we get a real solution to this problem within AnkiDroid's,0
+1718,ilt-in modules like `bazel_tools` and `local_config_,0
+1719,up don't have the right position if it was positioned in the keyboard area when it,0
+1720,PHEW. I have done 10 out of 28 pages for now. I. Am,0
+1721,Hm that seems to do it. I tried it before I think (or maybe,0
+1722,"If this post is about implementing trivial checks only, how about a Checkstyle rule that",0
+1723,"@user well darn it then, I guess this won't be an easy fix.",1
+1724,"Yeah, I noticed that. You sure? I'm happy to do it this afternoon",0
+1725,@user I tried to do that too... initially I got error as follows <code,0
+1726,Blast!,1
+1727,allocated all  the memory or is there any other advantage?.  another consideration,0
+1728,**[Colin Sampaleanu](https://jira.spring.io/,0
+1729,There are also some cons: 1. You would need to move to Scala 2.,0
+1730,Not to be too much of a person but you can just search for this... [,0
+1731,"nning jar itself. _sigh_  Despite things like this, Maven",0
+1732,Please stop creating these. You're wasting both our time and yours,1
+1733,With a friend of mine happened exactly the same thing than with @user and @user,0
+1734,"Tested as working. Marking as draft was overkill, in hindsight",0
+1735,"Reviewing crypto code is like changing a diaper. No one really wants to, but",1
+1736,Noooooo ,1
+1737,This is crazy. I will make my own PR that changes this to a constantscore,1
+1738,Mind merging?,1
+1739,> I'm a bit skeptical about how widely this will be used. Adding functionality for,0
+1740,What do you think isAutoGrowNestedPaths()),0
+1741,Anything in the more-shared direction is better and yes if it's rust then J,0
+1742,If dispatchSetPlayWhenReady is called when playWhenReady == true and the current,0
+1743,No good deed unpunished in this codebase!,1
+1744,"About your overall split screen implementation: >  > > Well, it is not as",0
+1745,"So, I added code to close the read side of the pipes when `WaitFor",0
+1746,Any news here? This is real pain...,1
+1747,"Hm, instead of adding a new jar and some ugly ant code, this might",1
+1748,"Dang, I'll take another look tonight. Thanks for the feedback",1
+1749,This is overkill for our needs,1
+1750,Waiting for more instructions from Ford,0
+1751,is easier,0
+1752,"Sounds can be silent, too. Can we play silent.wav instead of staticno",0
+1753,And I totally agree with @user `String.format()` is slow when it,0
+1754,"Guys, you can check this: http  It's well known problem with intel",0
+1755,"Oh it, the widget placement seems to be more messed up than I thought. I",1
+1756,We need to make that commit and be on our way. In cases where the name,0
+1757,This is not a discussion forum.,0
+1758,The 2` line took me a bit more than expected but I love Kotlin for,0
+1759,"Hi,   I'm not sure how this introduces a security risk - it lets",0
+1760,"Darn, I didn't realize that these are defined in the ES6 extern",1
+1761,Ouf! I've done so much moding on my phone lately I thought I,1
+1762,ser Could you elaborate on what's wrong with Cleaner? It's been added recently,0
+1763,> Sorry. Yes 1.7.1  Thanks! Sorry. I should have,0
+1764,At least in iMessage this feature doesn't work -) [http://rsm,0
+1765,"ch the same scenario, knowing you **must** keep the programmatic API consistent,",0
+1766,"It's super wacky this is a problem at all, but if the 0x",1
+1767,"I think support for SMS is bad for your user base. Regardless of privacy, I",0
+1768,@user as one of such performance critical allocation control users I can say that's a,0
+1769,Right back at you!,1
+1770,I feel as if I'm not explaining the issue properly. I don't think there,0
+1771,Ahh it seems that GCC's cc1 and cc1plus couldn't find the,0
+1772,"This has compile errors at the moment, your source code is structured strangely which means the",0
+1773,> Yea. > But feels wrong. I know that with the `bbb,0
+1774,proc *wakelock*:    K  CPU: 3m 6s 960,0
+1775,_ (private + work)? Is it possible to show the type of number (only,0
+1776,Still no plans on doing this?,0
+1777,pring-projects/spring-boot/issues/22151).,0
+1778,"Ah, darn, it's because you cannot parse a default value with `Boolean",1
+1779,Oops,1
+1780,The `PlayerControlDispatcher` class is gone so we no longer get this,0
+1781,Please try to be constructive. Describing something as bad is not.,0
+1782,I can't see why it wouldn't help.,0
+1783,awesome! Can't believe that was causing all the problems. :),1
+1784,"We need unencrypted communication, which we need for SMS. So we'll have 4",0
+1785,That feels a little bit too magic to me.,1
+1786,NACK. Will wait until the project url and block explorer are added,1
+1787,Option five (eww about four): rename your `BUCK` files to something,1
+1788,n is between decoders in M. I'll be pushing for more consistent application,0
+1789,`Future.sync()` can raise any type of throwable.  To be,0
+1790,"I'd peel that whole comment off using the github web UI's ""reference in a",0
+1791,You are receiving this because you authored the thread. > > [image: chat-,0
+1792,"@user correct me if I am wrong, but jar conflict can happen not just between",0
+1793,@***.,0
+1794,ways everywhere for iOS.,0
+1795,Wow that's much cleaner.,0
+1796,"It was much harder to reproduce, but I finally got a bug report on the Note",0
+1797,"Ugh, that doesn't fix the problem. It might actually break others, whose",1
+1798,I think you should commit your PR to the master branch,0
+1799,Apparently this is what happens when you link a device that has no TS groups.,0
+1800,still looking for answers?,0
+1801,"ndicatorAutoConfiguration` is, so it goes in front. This recursive call mess",0
+1802,And yes. Removing any mention of UTF8 in that file does fix this issue,0
+1803,`@EntityScan` converts to a `packagesToScan` (ugly property,1
+1804,That's awful. The only way to backup is gone? I'm considering to stop,1
+1805,"The default behavior should not be disabled, should be enabled by default (as it was",0
+1806,tatus 1 ```  After(fix is pushed at http http ``` [,0
+1807,"rrentScreenPosition, """");    v   continue;  ",0
+1808,Very interesting @user! thanks for that tidbit. @user this is unfortunately a,0
+1809,"Ah, just found one more wrinkle in this:  http  Our docs mention",0
+1810,"""fields"": ""not_analyzed"": {   ��   """,0
+1811,"[""Steve Kondik"":https://jira.spring.io/secure/",0
+1812,"@user  The slight difference you've seen can be safely ignored. Indeed, to",0
+1813,"I can't do this, I'm not admin of this repository.",1
+1814,"Same problem here.. I need the user to be able to type ""Enter"" and",0
+1815,Good case-insensitivity,0
+1816,I just wasted over an hour painstakingly filling out every single mandatory (even though often,0
+1817,"Noooo... Come on people, vote for it! (It's a democracy,",1
+1818,I have been frankly shocked at the anger expressed by people wanting Traditional Chinese when Simplified,0
+1819,This is not realistic. Upgrading to this Version is literally going to cost hundreds of,0
+1820,"A problem, that was supposed to be fixed. Confirmed.",0
+1821,FYI that's a 1.1 feature,1
+1822,"ugh with this change, you will need to update projects who use default configuration.",1
+1823,Here (http://stackoverflow.com/questions/24244133/,0
+1824,"er TypeResolutionFacade   On 26 Aug 2012, at 10:43",0
+1825,[removed a lot of stuff]  > Care to send a pull request?,0
+1826,And using the delegateLoadingOf android.support. causes all sorts of issues to break,0
+1827,Please clean this PR up. I'm afraid i can't merge it with 2000+,0
+1828,will i have all our IAP files in my game when i gradle-import,0
+1829,"OK, so in a nutshell, we can add it if it's on Polo or",0
+1830,I got the notification emails into the wrong mail account. I'll review and fix the,0
+1831,Someone here?,1
+1832,Thanks. I see the wiki page has changed greatly. I'll try it. Could,0
+1833,Unfortunately I don't still have the zip file. I do still have both phones as,0
+1834,Weird...,1
+1835,Wow. This is a totally unexpected behavior... Good for you that is documented. Now,0
+1836,(Files.java:1737)    at java.nio.,0
+1837,ory `Used by session` is currently measured by reading a value -- specifically `V,0
+1838,"@user If we change ""wikipedia-kafka"" to ""wikipedia"", then",0
+1839,From the user's point of view... Ugly sharp edges (see top-right,1
+1840,@user   I used the Microsoft Edge Chromium Beta (better version of the,0
+1841,I still don't get how this goal (using the right JDK to build ES,0
+1842,"ed for me. Is it possible to writesteps to reproduce? Please tell,",0
+1843,"In other bad news, Signal's lawyers sent a DMCA order to Canonical to remove",0
+1844,"You have an audience. And that, my friends, is the rest of the story",0
+1845,Bootstrap   ] [opselk-197323431-1-1980,0
+1846,Yes better than an option (as non technical users will not be able to deal with,0
+1847,[Ryan J. McDonough](https://jira.spring.io/,0
+1848,> More and more students have only used smartphone and has no idea what a folder/,0
+1849,"Mario, stop giving a lot of thought and relax for a few hours!",0
+1850,"@user not yet... conference wifi was bad, I'll see about doing so today",0
+1851,t leave the cluster and be stopped to perform the lengthy check and the subsequent optional fix,0
+1852,"@user quick question regarding the path of the lock file, does it make sense to",0
+1853,"It looks like we still don't have any user-facing documentation on the ""jar",0
+1854,tion you gave me is to deal with a broken unusable app or install google play,0
+1855,o show a dataframe. 2. The workaround is that I restart R and re,0
+1856,Model snapshots and the `latest_record_time_stamp` field are emitted,0
+1857,This is the current list of things that we need before we can distribute an APK,0
+1858,Any chance of getting someone to take a look at this?,1
+1859, display and upload are both working fine.  what are the right paths? Please help,0
+1860,Darn. I didn't see that issue! 😛   Being able to,1
+1861,This isnt supported. Slack has new docs and it seems that _watcher is,0
+1862,@user I know this template gets sucked in at a few different places. Can you,1
+1863,er methods or do.......  > I don't see any connection between static methods,0
+1864,Hm. This is really annoying. Any pointers to which table I need to clear,0
+1865,IDK. You should get only one of the “disable typing” or,1
+1866,@user april fools,1
+1867,What an absolute person! I will review this properly either Friday or Monday. Just got,0
+1868,"With its overly generic title, it's not surprising we missed it.",1
+1869,eactivex.rxjava3.core.Single.subscribe(Single.,0
+1870,Merging with just one approval - as a simple cherry-pick,1
+1871,I messed up I will create new PR,1
+1872,**[Rob Harrop](https://jira.spring.io/secure/,0
+1873,.run(Executor.scala:274)    at java.,0
+1874,recently and I know @user also fixed a bunch of problems in some of the,0
+1875,th the fact that I am using a custom AOSP based rom on my phone and,0
+1876,"The workaround I'm currently using is as follows, which is a _terrible_",0
+1877,"I had a nasty feeling you'd say something like that! Thanks for the input,",1
+1878,**[Eric J Schwarzenbach](https://jira.spring.io/,0
+1879,he JobScheduler. I'm just gonna say that this is bad behavior from,0
+1880,"TBH, Support is really rude here. Never mind.",1
+1881,The PR title got a bit wild,1
+1882,"@user I think that WTF is something that I fixed at some point, could",1
+1883,_From [badlogicgames](https://code.google.com/u,1
+1884,"You know you haven't fixed this, dont you?",1
+1885,"g, I find this: http  Basically, SOMETHING is trying to use",0
+1886,"> According to the documentation on Dynamic field mapping, when numeric_detection is enabled",0
+1887,@user oh you are right! Let me fix it,0
+1888,Wow you're on fire,1
+1889,"The ""However"" part is crazy",1
+1890,"load("":my_logic.bzl"", ""my_special_header",0
+1891,"Wow, 700Kb is crazy",1
+1892,y 330€ + 0.00005 BTC (16.5€) in fees,0
+1893,Example of a webview proxy: http Looks pretty ugly,1
+1894,"On the other hand, we've already committed to pushing the RStudio release back to",0
+1895,"Unfortunately, it hasn't been resolved yet. One would guess it's just a Kafka",1
+1896,"No, i can't because these scripting apis are not good. Its literally impossible",0
+1897,"@user > Hi there, there was a relatively massive [SMS spam campaign](",0
+1898,It does work correctly. You shoulda tested beforehand. Lesson learned,0
+1899,"clang-tidy review says ""All clean, LGTM! :+1",0
+1900,I think we figured out the magic MOE button to push so nevermind.,1
+1901,"For a while I thought it might just be my phone being really old, but apparently",0
+1902,"ver() throws Exception {    final String mapName = ""test""; ",0
+1903,was working fine in modes and tools as their number is small but in libraries it was,0
+1904,hello - i have to bump this one as there are no reactions. Does anyone have,0
+1905,Pfff... totally messed up this branch. Don't commit while doing a rebase,1
+1906,"thanks, @user  why this didn't show on my search, microsoft?!",0
+1907,"You can list directories on desktop. If it is actually a directory, then it will",0
+1908,mal case) or in the general case (this time) to onboard feedback constructively,0
+1909,in). Getting the price feed should not even easily be possible to assign to Bitsqu,0
+1910,How did you fix this?,1
+1911,"There're something in addition to the implementation.  Before this proposal, I tried to",0
+1912,I still have received 2 more node timeouts  so I guess I was just lucky,0
+1913,th mutable behaviour. There are couple of problems I see here: 1. You,0
+1914,I tested passing the arguments for the browser through the Options works fine.,0
+1915,also the machine is super slow,1
+1916,The comparison seems unfair then,1
+1917,"Even if you deploy BTM in separate JVMs, you must give each instance",0
+1918,is is simply a bug and even in the current cached version there should be no green,0
+1919,"WTF, I did something wrong >.> it just updated the changes file >",1
+1920,Is this issue solved yet or is there a walk around? I face this same issue,0
+1921,@user you say autocrypt 1.0 is not bulletproof. I stand,0
+1922,"omg, shame on me, of course",1
+1923,Is a YouTube employee sabotaging this project?,1
+1924,darn syntax formatting,1
+1925,"Re-read the whole thing 2nd time post-push, all looks :100",0
+1926,"Oh I'm on 3.3.0, I just seem to have posted the",0
+1927,The advantage of that to simplify the output.,0
+1928,"I feel that for indexed point-data, accuracy & performance has been very good for",0
+1929,@user dude! SD Card?,1
+1930,"Hi, sorry for getting back to you so late (I was on an extended holiday",0
+1931,The failure is intentional. Why should we be lenient about this? it is still,0
+1932,"for so long, so don't expect a fix.",0
+1933,@user I created a debug in writePacket() before channel.writeAndFl,0
+1934,Did you have any luck coming up with a sample?,0
+1935,Blame Nate,1
+1936,"> @user : >  > > Technically, anymatch works only for >",0
+1937,ver 3.13.1  - Chrome PASS - IE 11 PASS  **Data,0
+1938,:D It's good to have more eyes on this. It's a pretty hairy,1
+1939,"I'm currently refactoring the `Download*` classes, and I thought in",0
+1940,@user I agree with your point that TextSecure already is a complex tool. But,0
+1941,Glad you got it worked out!,1
+1942,"Yeah, this just doesn't sound doable in any way that doesn't make sense",0
+1943,This isn't fixed at all. I create a project linked to a directory on disk,0
+1944,"@user ok, trying step by step - installed your branch as an update to a",0
+1945,"Please don't use our build server as your personal testing ground. Clone the project,",1
+1946,"Those are good points. But I also think that, since the current default behavior in",0
+1947,Thanks! I started to dislike those ones...,0
+1948,"> This ""explanation"" is mind bugling, take the sim card out",0
+1949,Google's material design guidelines were surely considered when they came up with the FloatingActionButton,0
+1950,raitent ceux qui ne peuvent rien pour eux… ˜,0
+1951,Trying to get this goog.style to work but it never returns anything.,1
+1952,"_From niho...@gmail.com on February 04, 2011 22:",0
+1953,Oof,1
+1954,Super-weird. Please post installation details. Main menu->Help->Installation Information,1
+1955,> @user are you exporting the subscriptions from NewPipe or Google Takeout?,0
+1956,"@user That'd be great, but someone needs to volunteer to write the WP client",0
+1957,be you need to get the security constraint lifted so that the JDK can access its,0
+1958,Is someone experiencing the same issue or am I doing something wrong?,0
+1959,"I hate the Android tools so much. Tomski, can you fix it up",1
+1960,"We are until runtime. I'm going to exit the issue, I don't think",0
+1961,"The formatting on this is bad, could you run the libgdx formatter?",0
+1962,Oh. Oops,1
+1963,Errgh. I wonder if they would be interested in offering a version of the,1
+1964,best issue ever lmaoo,0
+1965,I used the wrong formatter... I will try to fix it.,0
+1966,Argh... This moment you discover you were working in an outdated dir containing an outdated,1
+1967,"Maybe not turn off but close. You know, from task manager. Close, turn",0
+1968,Great! Glad we finally got a handle on this.,1
+1969,"indexes to ""+lgs*"" produces the desired results. Thanks for your support",0
+1970,"its 2020, I'm on linux mint, dbeaver community version 7 and this",0
+1971,"I rebased this PR. However, I messed up while doing so. As a",1
+1972,"As designed above (cancel trade) is a simplistic ""I messed up, here",1
+1973,"Different than if ""abc"" is stored as binary? I don't have a deep",0
+1974,@user There's nothing bad about your English level as far as I can tell.,0
+1975,ting mails so I don't get a notification for that <.< I get the,0
+1976,how did you scale your mongod?,1
+1977,LOL,1
+1978,"> however as currently implemented I don't think that's what the results really reflect,",0
+1979,`2016-09-10` regardless of user zone. What you want seems to,0
+1980,"The load order is pretty much undefined, so I wouldn't rely on it. ",0
+1981,@user Thank you for signing the [Contributor License Agreement](https://cla,0
+1982,@user but if you disable whole bean you won't be able inject it into tests,0
+1983,"> a bit scary! I believe it! Its weird to have these three, but",1
+1984,if 100% coverage is not reachable in normal workflow we try to use PowerM,0
+1985,Are you using the latest computer version?,0
+1986,It's yours (because you are using a beta version).  > @user wrote,0
+1987,"Oh man! I thought I had fixed it..... Grumble Windows, grumble",1
+1988,Meh that whole player UI is messed up. It would be cool if someone could,1
+1989,Hi @user thanks for your contribution!  In order for us to evaluate and accept,0
+1990,Why won't you run!,1
+1991,*[Martin Zeltner](https://jira.spring.io/secure,0
+1992,"Got the message. It's not pgp/mime encoded, it's a",0
+1993,Thanks for finding a solution and going the extra step to report the bug! I had,0
+1994,I'm experiencing this as well.,1
+1995,**[Matthew Sgarlata](https://jira.spring.io/,0
+1996,nuke it!,1
+1997,"Rooting the device shouldn't in itself be a problem, provided you're not using",0
