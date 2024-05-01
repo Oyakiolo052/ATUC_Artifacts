@@ -1,0 +1,2 @@
+Collected the app from here. https://laser.cs.uno.edu/Projects/Projects.html
+Then Download: SentiStrength-SE: Sentiment detection tool in Software Engineering domain
