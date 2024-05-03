@@ -19,4 +19,12 @@ This part of this artifact contains a replication of ToxiCR using the BERT model
 #### Refined Detection Model:
 [`/ATUC_Artifacts/Refined-detection_model`](https://github.com/Oyakiolo052/ATUC_Artifacts/tree/main/Refined_detection_model) contains the fine-tuned training set [`/ATUC_Artifacts/Refined_detection_model/for_Train_and_validation_data.xlsx`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Refined_detection_model/for_Train_and_validation_data.xlsx) and testing set [`/ATUC_Artifacts/Refined_detection_model/for_Test_data.xlsx`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Refined_detection_model/for_Test_data.xlsx) for the refined incivility detection that outperforms [`ToxiCR`](https://dl.acm.org/doi/10.1145/3583562) You can find the finetuned detection model in [`here`](https://doi.org/10.5281/zenodo.10775868), named as "MyModel_BERT.model" under the folder "FineTuned Model." For finetuning from scratch, you can run the notebook file [`/ATUC_Artifacts/Refined_detection_model/classification_civil_uncivil_using_BERT.ipynb`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Refined_detection_model/classification_civil_uncivil_using_BERT.ipynb) with the necessary adjustments to the datapaths. This folder also contains a Python notebook for getting the evaluation metrics (precision, recall, F1-score) [`/ATUC_Artifacts/Refined_detection_model/Evaluation.ipynb`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Refined_detection_model/Evaluation.ipynb).   
 
+We also conducted comparative analysis between our refined model and existing ones. Please have a look at [`/ATUC_Artifacts/GitHub_dataset/ReadMe.md`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/GitHub_dataset/ReadMe.md) for details.
+
+#### Translation Models:
+
+
+
+
+
 
