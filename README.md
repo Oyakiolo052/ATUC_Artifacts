@@ -5,8 +5,8 @@ Md Shamimur Rahman, Zadia Codabux and Chanchal K. Roy, "Do Words Have Power? Und
 
 ## Run Tool
 There are two ways to run the prepared detection and translation tool of our above paper"
-1. Local machine (please see install.md file for details)
-2. Google Co-laboratory (please see colab.md for details)
+1. Local machine (please see [`/ATUC_Artifacts/install.md`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/install.md) file for details)
+2. Google Co-laboratory (please see [`/ATUC_Artifacts/colab.md`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/colab.md) for details)
 
 ## Artifacts 
 Up-to-date artifacts are available here: [https://github.com/Oyakiolo052/ATUC_Artifacts] 
