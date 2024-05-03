@@ -10,3 +10,5 @@ We applied ToxiCR to those comments that were predicted as uncivil by our refine
 ToxiCR. Please see [`ATUC_Artifacts/GitHub_dataset/prediction_uncivil_github_comments.csv`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/GitHub_dataset/prediction_uncivil_github_comments.csv)
 
 ## Manual Investigation:
+We randomly selected 1000 code review comments from that GitHub dataset and applied our refined detection model, ToxiCR, politeness detector and toxicity detector models for the comparative analysis betweeen manual validation and [`ATUC_Artifacts/GitHub_dataset/prediction_uncivil_github_comments.csv`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/GitHub_dataset/prediction_uncivil_github_comments.csv)the detectors. Please see [`ATUC_Artifacts/GitHub_dataset/GitHub_dataset/Manual_investigation_Final.xlsx`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/GitHub_dataset/Manual_investigation_Final.xlsx)
+
