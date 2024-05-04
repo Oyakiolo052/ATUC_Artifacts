@@ -26,6 +26,11 @@ We used three versions of T5 (i.e., small, base, and large), two versions of BAR
 
 Now, if you want to use our prepared finetuned models individually directly and check by giving input and see the generated output, we can use the notebook files named with "All" (e.g., All_T5.ipynb). All the fined-tuned models are shared in [`here`](https://doi.org/10.5281/zenodo.10775868). Please go "Prepared_models" => "Translation Model" => "My fine-tuned translation models." You can find seven fine-tuned models. However, we provided a single script used for all models. Please see  [`/ATUC_Artifacts/colab.md`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/colab.md). Additionally, you can use our finetuned GPT3.5 model to convert uncivil comments into civil counterparts. The model name is ft:gpt-3.5-turbo-0613:software-research-lab:ctbot:814tfHj0. Just give an uncivil comments as prompt and see the generated civil alternatives.   
 
+#### Comparative analysis:
+To compare our prepared incivility detection and translation models with existing politeness transfer and detoxification models, we replicated all the state-of-the-arts. Please have a look at the paper for details. We also shared the scripts and replicated models [`here`](https://doi.org/10.5281/zenodo.10775868). For detection models, go "Prepared_models" => "Detection Models" => "General Toxicity detection models" and "Prepared_models" => "Detection Models" => "Politeness Detection models." For translation models, go "Prepared_models" => "Translation Model" => "Detoxification models" and "Prepared_models" => "Translation Model" => "Politeness transfer models." 
+
+For comparison, we used several metrics. All the metrics' descriptions are in the [`/ATUC_Artifacts/Suplementary document.pdf`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Suplementary document.pdf). All the scripts and results are available in [`/ATUC_Artifacts/Comparative_analysis`](https://github.com/Oyakiolo052/ATUC_Artifacts/tree/main/Comparative_analysis). 
+
 
 
 
