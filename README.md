@@ -29,7 +29,7 @@ Now, if you want to use our prepared finetuned models individually directly and 
 #### Comparative analysis:
 To compare our prepared incivility detection and translation models with existing politeness transfer and detoxification models, we replicated all the state-of-the-arts. Please have a look at the paper for details. We also shared the scripts and replicated models [`here`](https://doi.org/10.5281/zenodo.10775868). For detection models, go "Prepared_models" => "Detection Models" => "General Toxicity detection models" and "Prepared_models" => "Detection Models" => "Politeness Detection models." For translation models, go "Prepared_models" => "Translation Model" => "Detoxification models" and "Prepared_models" => "Translation Model" => "Politeness transfer models." 
 
-For comparison, we used several metrics. All the metrics' descriptions are in the [`/ATUC_Artifacts/Suplementary document.pdf`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Suplementary document.pdf). All the scripts and results are available in [`/ATUC_Artifacts/Comparative_analysis`](https://github.com/Oyakiolo052/ATUC_Artifacts/tree/main/Comparative_analysis). 
+For comparison, we used several metrics. All the metrics' descriptions are in the [`/ATUC_Artifacts/Suplementary document.pdf`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Suplementary%20document.pdf). All the scripts and results are available in [`/ATUC_Artifacts/Comparative_analysis`](https://github.com/Oyakiolo052/ATUC_Artifacts/tree/main/Comparative_analysis). 
 
 
 
