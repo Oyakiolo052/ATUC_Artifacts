@@ -31,6 +31,12 @@ To compare our prepared incivility detection and translation models with existin
 
 For comparison, we used several metrics. All the metrics' descriptions are in the [`/ATUC_Artifacts/Suplementary document.pdf`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Suplementary%20document.pdf). All the scripts and results are available in [`/ATUC_Artifacts/Comparative_analysis`](https://github.com/Oyakiolo052/ATUC_Artifacts/tree/main/Comparative_analysis). 
 
+#### Surveys:
+We conducted two surveys. In the first survey , we received 171 developers responses about their experience on incivility in online development discussion. In the second survey, we asked developers to use our detection and translation models and provide feedback. We received responses from 34 software developers. Both survey questionaries are available here [`/ATUC_Artifacts/Surveys`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Surveys)
+
+
+
+
 
 
 
