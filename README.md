@@ -35,7 +35,36 @@ For comparison, we used several metrics. All the metrics' descriptions are in th
 We conducted two surveys. In the first survey , we received 171 developers responses about their experience on incivility in online development discussion. In the second survey, we asked developers to use our detection and translation models and provide feedback. We received responses from 36 software developers. Both survey questionaries are available here [`/ATUC_Artifacts/Surveys`](https://github.com/Oyakiolo052/ATUC_Artifacts/blob/main/Surveys)
 
 
+## Citation for our paper
 
+
+FSE-2024: "Do Words Have Power? Understanding and Fostering Civility in Code Review Discussion"
+
+```
+@article{10.1145/3660780,
+author = {Rahman, Md Shamimur and Codabux, Zadia and Roy, Chanchal K.},
+title = {Do Words Have Power? Understanding and Fostering Civility in Code Review Discussion},
+year = {2024},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3660780},
+doi = {10.1145/3660780},
+journal = {Proc. ACM Softw. Eng., Vol. 1, No. FSE, Article 73. Publication date: July 2024}
+}
+```
+If you use our dataset, please cite our artifacts:
+
+```
+@proceedings{rahman_2024_10775868,
+  title        = {{Replication Package of Do Words Have Power? 
+                   Understanding and Fostering Civility in Code
+                   Review Discussion}},
+  year         = 2024,
+  publisher    = {Zenodo},
+  month        = mar,
+  doi          = {10.5281/zenodo.10775868},
+  url          = {https://doi.org/10.5281/zenodo.10775868}
+}
+```
 
 
 
